@@ -2,3 +2,18 @@ baseURL = 'https://multer.com/'
 locale = 'en-us'
 title = 'Multer family website'
 theme = 'ananke'
+
+[[menus.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+
+[[menus.main]]
+name = "Posts"
+pageRef = "/posts/"
+weight = 20
+
+[[menus.main]]
+name = "About"
+pageRef = "/about/"
+weight = 30
