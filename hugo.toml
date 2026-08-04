@@ -1,0 +1,4 @@
+baseURL = 'https://multer.com/'
+locale = 'en-us'
+title = 'Multer family website'
+theme = 'ananke'

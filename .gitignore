@@ -1,0 +1,25 @@
+# Hugo build output (generated static site)
+/public/
+
+# Hugo asset cache and processed resources (images, compiled CSS, etc.)
+/resources/_gen/
+.hugo_build.lock
+
+# Build statistics file (if using PostCSS/PurgeCSS optimizations)
+hugo_stats.json
+
+# Local environment variables
+.env
+*.env.*
+
+# Node modules (if using npm for Tailwind, PostCSS, etc.)
+/node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Executable binaries (if you keep local Hugo binaries in the project)
+hugo.exe
+hugo.linux
+hugo.darwin
