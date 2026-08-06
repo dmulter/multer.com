@@ -2,6 +2,7 @@ baseURL = 'https://multer.com/'
 locale = 'en-us'
 title = 'Multer family website'
 theme = 'PaperMod'
+mainSections = ['posts']
 
 [[menus.main]]
 name = "Home"
