@@ -1,0 +1,12 @@
+<div class="social-icons">
+<a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1">
+  {{- if eq (.Get "icon") "instagram" -}}
+    {{- partial "svg.html" (dict "name" "instagram") -}}
+  {{- else if eq (.Get "icon") "facebook" -}}
+    {{- partial "svg.html" (dict "name" "facebook") -}}
+  {{- else if eq (.Get "icon") "linkedin" -}}
+    {{- partial "svg.html" (dict "name" "linkedin") -}}
+  {{- end -}}
+  <span>{{ .Get "text" }}</span>
+</a>
+</div>
