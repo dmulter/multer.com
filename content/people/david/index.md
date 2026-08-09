@@ -1,5 +1,25 @@
 +++
 title = 'David Multer'
+
+[[social_icons]]
+name = 'instagram'
+url = 'https://instagram.com/dmulter/'
+
+[[social_icons]]
+name = 'linkedin'
+url = 'https://www.linkedin.com/in/dmulter/'
+
+[[social_icons]]
+name = 'facebook'
+url = 'https://www.facebook.com/dmulter/'
+
+[[social_icons]]
+name = 'strava'
+url = 'https://www.strava.com/athletes/dmulter'
+
+[[social_icons]]
+name = 'github'
+url = 'https://github.com/dmulter'
 +++
 
 Hello, and welcome to my website. I live in Wheat Ridge, CO with my fabulous wife Charlotte. 
@@ -20,10 +40,4 @@ retired now and spending most of my time cycling and gardening.
 
 I hope you enjoy this website!
 
-Follow me on:
-
-{{< social-link url="https://instagram.com/dmulter/" icon="instagram" text="dmulter" >}}
-{{< social-link url="https://www.linkedin.com/in/dmulter/" icon="linkedin" text="dmulter" >}}
-{{< social-link url="https://www.facebook.com/dmulter/" icon="facebook" text="dmulter" >}}
-{{< social-link url="https://www.strava.com/athletes/dmulter" icon="strava" text="dmulter" >}}
-{{< social-link url="https://github.com/dmulter" icon="github" text="dmulter" >}}
+{{< page_social_icons >}}
