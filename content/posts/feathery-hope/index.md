@@ -1,6 +1,5 @@
 +++
 date = '2018-01-16'
-draft = true
 title = 'Feathery Hope'
 author = 'Monica Multer'
 tags = ['poetry']
