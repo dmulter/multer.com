@@ -4,9 +4,10 @@ title = 'Elysium Red'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
-+++
 
-![frozen trees](frozen-trees.jpg)
+[cover]
+image = "frozen-trees.jpg"
++++
 
 Virgin snow collapses under a heavy foot  
 Like sand washed away from a steep embankment  

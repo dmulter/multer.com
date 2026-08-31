@@ -4,9 +4,10 @@ title = 'Jagged Edges'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
-+++
 
-![frozen tree](frozen-tree.jpg)
+[cover]
+image = "frozen-tree.jpg"
++++
 
 The jagged edges of me  
 Clash up against fluidity;  

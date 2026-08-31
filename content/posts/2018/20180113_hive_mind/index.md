@@ -4,9 +4,10 @@ title = 'Hive Mind'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
-+++
 
-![bumble bee](bumble-bee.jpg)
+[cover]
+image = "bumble-bee.jpg"
++++
 
 The bees have infested my brain again  
 Rattling around within my skull  

@@ -4,9 +4,10 @@ title = 'Becoming New'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
-+++
 
-![lighthouse](lighthouse.jpg)
+[cover]
+image = "lighthouse.jpg"
++++
 
 Ever since I can remember I have been coming to the Upper Peninsula of Michigan to visit our family compound on the shores of a lake fed by Lake Superior. I never went to summer camp or a sports camp as a child, instead I gathered alongside my numerous cousins, aunts and uncles, and under the amused gaze of my grandparents to run amuck in the forests and swim in the Great Lakes. The sun never seemed to fade on those long summer nights.The memories and experiences I had during those endless summers forever altered who I was and who I would become in ways so numerous that this blog post could never even begin to contain all of them. The shores of Lake Superior will always be my second home, but standing where I have stood many times before on the Sandstone cliffs of Jacobsville as the light from the first day of 2018 fades into shades of soft pink, I realize just how unfamiliar and new familiar places can become.
 
