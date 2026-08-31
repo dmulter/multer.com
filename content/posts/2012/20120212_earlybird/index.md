@@ -4,12 +4,14 @@ title = 'Fremont Early Bird Criterium'
 author = 'David Multer'
 authors = ['David Multer']
 tags = ['story']
+
+[cover]
+image = "01.jpg"
 +++
 
 Today we're heading out to Fremont for some early season racing. Gracie is in
 training to become a bike racing dog. And Gabe takes off in the Cat 4 field.
 
-![01](01.jpg)
 ![02](02.jpg)
 ![03](03.jpg)
 ![04](04.jpg)

@@ -4,9 +4,10 @@ title = 'Gone for So Long'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
-+++
 
-![graffiti](graffiti.jpg)
+[cover]
+image = "graffiti.jpg"
++++
 
 I know I have been gone for so long now  
 And I was gone long before you noticed my absence;  

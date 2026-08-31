@@ -4,11 +4,12 @@ title = 'Silence Awful and Sublime'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
+
+[cover]
+image = "winter-trees-01.jpg"
 +++
 
 > “The clearest way into the Universe is through a forest wilderness.” – John Muir
-
-![winter trees](winter-trees-01.jpg)
 
 Fewer words ring truer in my mind than John Muir’s transcendental musings on nature, the wilderness of this world, and the triad connection between man, the outdoors, and the universe.
 

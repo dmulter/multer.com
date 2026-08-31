@@ -4,9 +4,10 @@ title = 'Remembering Jacob DiNoto'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
-+++
 
-![in the park](jacob-01.jpg)
+[cover]
+image = "jacob-01.jpg"
++++
 
 In many ways, I fail to find the correct words to describe this feeling because the pain is not my own. I cannot lay claim to this grief even though it tears at my heart and wearies my soul. I know how dreadfully Jacob’s family misses him and the grief of struggling to understand his premature death burdens both his family back in Connecticut and his new family in California. The death of a person so young cannot be justified, especially when they have so much life left to live. But I cannot speak for his family, I cannot speak for Mackenzie or her children, I can only share my memories of Jacob in the hopes that my own struggle to comprehend the incomprehensible may help others facing the same uphill battle. My words cannot be sufficient to encapsulate the pain of Jacob’s death, but I hope they can bring back a piece of the light that Jacob shared with everyone he encountered in life.
 

@@ -4,6 +4,9 @@ title = 'Dinuba Criterium'
 author = 'David Multer'
 authors = ['David Multer']
 tags = ['story']
+
+[cover]
+image = "01.jpg"
 +++
 
 After a few flats in a row plus changing tires and tubes, it's time to use a
@@ -12,7 +15,6 @@ Bryan and Sam, and right from the start Sam and another guy take off in a
 breakaway. Sam looks really strong the whole time and takes it strongly at the
 line for an awesome win.
 
-![01](01.jpg)
 ![02](02.jpg)
 ![03](03.jpg)
 ![04](04.jpg)

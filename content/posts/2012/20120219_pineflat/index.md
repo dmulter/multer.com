@@ -4,6 +4,9 @@ title = 'Pine Flat Road Race'
 author = 'David Multer'
 authors = ['David Multer']
 tags = ['story']
+
+[cover]
+image = "01.jpg"
 +++
 
 Gabe and a few of his teammates are here for one of Gabe's favorite races, Pine
@@ -11,7 +14,6 @@ Flat road race. It's great having Stu here with the team, including Matt,
 Alex, Bryan, and Sam. This is also a must do race for Gabe's friend Ryan. Hey
 Stu, stop hiding behind that bike!
 
-![01](01.jpg)
 ![02](02.jpg)
 ![03](03.jpg)
 ![04](04.jpg)

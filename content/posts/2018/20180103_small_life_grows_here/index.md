@@ -4,9 +4,10 @@ title = 'Small Life Grows Here'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
-+++
 
-![frosty ground cover](frosty-ground-cover.jpg)
+[cover]
+image = "frosty-ground-cover.jpg"
++++
 
 Be careful where you tread  
 Small life grows here.  

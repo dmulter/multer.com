@@ -4,9 +4,10 @@ title = 'Feathery Hope'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
-+++
 
-![flying egret](egret.jpg)
+[cover]
+image = "egret.jpg"
++++
 
 A fragile and feathery hope grows in my chest  
 It tickles my ribcage and brushes against my cheeks  

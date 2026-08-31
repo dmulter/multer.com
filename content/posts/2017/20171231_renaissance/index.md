@@ -4,9 +4,10 @@ title = 'Renaissance'
 author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
-+++
 
-![thistle](thistle.jpg)
+[cover]
+image = "thistle.jpg"
++++
 
 Honestly, I do not know how to begin again. This space was my home for so many years when my words could find no ears to fall upon with quiet urgency. For those who have joined me on my journey either part way or all the way back eight years ago from the very beginning, and for those who are starting today, know this: the last two years my words have been nonexistent. I could name a thousand reasons that left me hesitating with my fingers hovering above a dusty keyboard, but none are sufficient to strip the guilt away from my heart. Writing has always been the life-blood of my being and to halt the progress of pen on paper is to bring my heartbeat to a startling stand still. However, that isn’t even true. It was more gradual than that, there was no jarring day where the words stopped coming, it was a slow, drawn out decay of all that made me, me.
 
