@@ -23,6 +23,7 @@ jobs:
       GO_VERSION: 1.26.4
       HUGO_VERSION: 0.164.0
       NODE_VERSION: 26.6.0
+      HUGO_BASEURL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
 
       # Set the build time zone
       TZ: America/Denver

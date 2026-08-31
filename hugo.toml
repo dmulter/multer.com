@@ -1,5 +1,4 @@
-baseURL = "https://dmulter.github.io/multer.com/"
-#baseURL = "https://multer.com/"
+baseURL = "http://localhost:1313/"
 locale = "en-us"
 title = "Multer family website"
 theme = "PaperMod"
