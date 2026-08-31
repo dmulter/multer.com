@@ -1,6 +1,7 @@
 +++
 date = '2018-01-05'
 title = 'Remembering Jacob DiNoto'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
 +++

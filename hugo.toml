@@ -1,10 +1,11 @@
-baseURL = 'https://multer.com/'
-locale = 'en-us'
-title = 'Multer family website'
-theme = 'PaperMod'
-mainSections = ['posts']
+baseURL = "https://multer.com/"
+locale = "en-us"
+title = "Multer family website"
+theme = "PaperMod"
+mainSections = ["posts"]
 
 [taxonomies]
+tag = "tags"
 author = "authors"
 
 [[menus.main]]
@@ -28,4 +29,4 @@ pageRef = "/about/"
 weight = 40
 
 [caches.images]
-dir = ':cacheDir/images'
+dir = ":cacheDir/images"

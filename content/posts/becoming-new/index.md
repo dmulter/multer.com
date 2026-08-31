@@ -1,6 +1,7 @@
 +++
 date = '2018-01-01'
 title = 'Becoming New'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
 +++
