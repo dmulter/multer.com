@@ -20,9 +20,11 @@ url = 'https://www.pinterest.com/pedestrian_poet/'
 
 Welcome to Monica's people page!
 
+[Read all my posts](/authors/monica-multer).
+
 Be sure to check out my popular Instagram accounts:
 * [San Francisco Bucket List](https://www.instagram.com/sanfranciscobucketlist/)
 * [Santa Cruz Bucket List](https://www.instagram.com/santacruzbucketlist/)
-* Vacation Bucket List?
+* [Bucket List Vacation](https://www.instagram.com/bucketlistvacation/)
 
 {{< page_social_icons >}}
