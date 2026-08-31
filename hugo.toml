@@ -9,6 +9,9 @@ mainSections = ["posts"]
 tag = "tags"
 author = "authors"
 
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 [[menus.main]]
 name = "Home"
 pageRef = "/"
@@ -28,6 +31,11 @@ weight = 30
 name = "About"
 pageRef = "/about/"
 weight = 40
+
+[[menus.main]]
+name = "Search"
+pageRef = "/search/"
+weight = 50
 
 [caches.images]
 dir = ":cacheDir/images"
