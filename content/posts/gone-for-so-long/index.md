@@ -1,7 +1,7 @@
 +++
 date = '2017-10-30'
 title = 'Gone for So Long'
-author = 'Monica Multer'
+authors = ['Monica Multer']
 tags = ['poetry']
 +++
 
