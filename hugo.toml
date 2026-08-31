@@ -4,6 +4,9 @@ title = 'Multer family website'
 theme = 'PaperMod'
 mainSections = ['posts']
 
+[taxonomies]
+author = "authors"
+
 [[menus.main]]
 name = "Home"
 pageRef = "/"
