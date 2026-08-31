@@ -1,6 +1,7 @@
 +++
 date = '2018-01-13'
 title = 'Hive Mind'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
 +++

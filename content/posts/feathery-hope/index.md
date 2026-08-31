@@ -1,6 +1,7 @@
 +++
 date = '2018-01-16'
 title = 'Feathery Hope'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
 +++

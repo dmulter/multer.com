@@ -1,6 +1,7 @@
 +++
 date = '2017-12-31'
 title = 'Renaissance'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
 +++

@@ -1,6 +1,7 @@
 +++
 date = '2018-01-09'
 title = 'Jagged Edges'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
 +++

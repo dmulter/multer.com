@@ -1,6 +1,7 @@
 +++
 date = '2018-01-02'
 title = 'Silence Awful and Sublime'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['story']
 +++

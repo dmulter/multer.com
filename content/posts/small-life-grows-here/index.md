@@ -1,6 +1,7 @@
 +++
 date = '2018-01-03'
 title = 'Small Life Grows Here'
+author = 'Monica Multer'
 authors = ['Monica Multer']
 tags = ['poetry']
 +++
