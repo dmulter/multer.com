@@ -3,6 +3,7 @@ locale = "en-us"
 title = "Multer family website"
 theme = "PaperMod"
 mainSections = ["posts"]
+ignoreFiles = [ "posts/2010/" ]
 
 [taxonomies]
 tag = "tags"
