@@ -1,0 +1,227 @@
++++
+date = '2009-07-08'
+title = 'Bootjack roadtrip - Driving through South Dakota'
+author = 'David Multer'
+authors = ['David Multer']
+tags = ['story']
+
+[cover]
+image = "21.jpg"
++++
+
+Yesterday was a bunch of driving through Wyoming, but today the ladies will be
+heading through South Dakota. This is going to be a very long day with a
+ridiculous number of photos. Hope you enjoy them.
+
+![01](01.jpg)
+![02](02.jpg)
+![03](03.jpg)
+![04](04.jpg)
+![05](05.jpg)
+
+A break in the town of Deadwood was a good opportunity to check out the local
+history.
+
+![06](06.jpg)
+![07](07.jpg)
+![08](08.jpg)
+![09](09.jpg)
+![10](10.jpg)
+![11](11.jpg)
+![12](12.jpg)
+![13](13.jpg)
+![14](14.jpg)
+![15](15.jpg)
+
+The Adams Museum was very enlightening. Say hi to Wild Bill for me.
+
+![16](16.jpg)
+![17](17.jpg)
+![18](18.jpg)
+![19](19.jpg)
+![20](20.jpg)
+![21](21.jpg)
+![22](22.jpg)
+
+The [Crazy Horse Memorial](https://crazyhorsememorial.org) looked good, but was
+crazy expensive for the thrifty travelers.
+
+![23](23.jpg)
+![24](24.jpg)
+
+The town of Custer has an excellent collection of painted bison.
+
+![25](25.jpg)
+![26](26.jpg)
+![27](27.jpg)
+![28](28.jpg)
+![29](29.jpg)
+![30](30.jpg)
+![31](31.jpg)
+![32](32.jpg)
+![33](33.jpg)
+
+Monica had a prairie dog moment, something about sitting in the car for a
+little too long.
+
+![34](34.jpg)
+![35](35.jpg)
+![36](36.jpg)
+![37](37.jpg)
+![38](38.jpg)
+![39](39.jpg)
+
+Charlotte and Monica have some kind of thing about shacks.
+
+![40](40.jpg)
+![41](41.jpg)
+![42](42.jpg)
+![43](43.jpg)
+![44](44.jpg)
+![45](45.jpg)
+![46](46.jpg)
+![47](47.jpg)
+![48](48.jpg)
+![49](49.jpg)
+![50](50.jpg)
+![51](51.jpg)
+![52](52.jpg)
+
+The next big stop was [Wind Cave National Park](https://www.nps.gov/wica/), but
+no dogs were permitted, so the girls continue on to Custer State Park. The
+wildlife is really starting to kick in now. The wildlife loop drive was the
+highlight of the entire road trip. Unfortunately there are no photos that
+capture the bison that charged the car, but it's quite a story.
+
+![53](53.jpg)
+![54](54.jpg)
+![55](55.jpg)
+![56](56.jpg)
+![57](57.jpg)
+![58](58.jpg)
+![59](59.jpg)
+![60](60.jpg)
+![61](61.jpg)
+![62](62.jpg)
+![63](63.jpg)
+![64](64.jpg)
+![65](65.jpg)
+![66](66.jpg)
+![67](67.jpg)
+![68](68.jpg)
+
+There's so much wildlife on this loop, they are pouring on to the road as well.
+I hear the begging burros are quite legendary. The bison don't beg, but you
+better stay in your car and be ready to hit the gas.
+
+![69](69.jpg)
+![70](70.jpg)
+![71](71.jpg)
+![72](72.jpg)
+![73](73.jpg)
+![74](74.jpg)
+![75](75.jpg)
+![76](76.jpg)
+![77](77.jpg)
+![78](78.jpg)
+![79](79.jpg)
+![80](80.jpg)
+![81](81.jpg)
+![82](82.jpg)
+![83](83.jpg)
+![84](84.jpg)
+![85](85.jpg)
+![86](86.jpg)
+![87](87.jpg)
+
+Leaving the park, the quest for more shacks continues.
+
+![88](88.jpg)
+![89](89.jpg)
+![90](90.jpg)
+![91](91.jpg)
+![92](92jpg)
+![93](93.jpg)
+![94](94.jpg)
+![95](95.jpg)
+![96](96.jpg)
+![97](97.jpg)
+![98](98.jpg)
+![99](99.jpg)
+
+Road signs are nearly as exciting as shacks. There are over 150 Wall Drug signs
+on this stretch of the road. Here's a small sampling of the collection. The
+excitement at finally arriving at the much anticipated Wall Drug store itself
+must be overwhelming.
+
+![100](100.jpg)
+![101](101.jpg)
+![102](102.jpg)
+![103](103.jpg)
+![104](104.jpg)
+![105](105.jpg)
+![106](106.jpg)
+![107](107.jpg)
+![108](108.jpg)
+![109](109.jpg)
+![110](110.jpg)
+![111](111.jpg)
+![112](112.jpg)
+![113](113.jpg)
+![114](114.jpg)
+![115](115.jpg)
+![116](116.jpg)
+![117](117.jpg)
+![118](118.jpg)
+![119](119.jpg)
+![120](120.jpg)
+![121](121.jpg)
+![122](122.jpg)
+![123](123.jpg)
+![124](124.jpg)
+![125](125.jpg)
+![126](126.jpg)
+![127](127.jpg)
+![128](128.jpg)
+![129](129.jpg)
+![130](130.jpg)
+
+It's hard to tell from the car grill photo, but take my word for it, there are
+a million bugs wedged in there. Enjoy the final set of shack and sign photos.
+The T-Rex has to take the cake on this stretch.
+
+![131](131.jpg)
+![132](132.jpg)
+![133](133.jpg)
+![133](133.jpg)
+![134](134.jpg)
+![135](135.jpg)
+![136](136.jpg)
+![137](137.jpg)
+![138](138.jpg)
+![139](139.jpg)
+![140](140.jpg)
+![141](141.jpg)
+![142](142.jpg)
+![143](143.jpg)
+![144](144.jpg)
+![145](145.jpg)
+![146](146.jpg)
+![147](147.jpg)
+![148](148.jpg)
+![149](149.jpg)
+![150](150.jpg)
+![151](151.jpg)
+![152](152.jpg)
+![153](153.jpg)
+![154](154.jpg)
+![155](155.jpg)
+![156](156.jpg)
+
+Finally our intrepid travelers arrive in Chamberlain, South Dakota. The
+numerous tornado warnings throughout the night made for a restless sleep
+before another big day tomorrow.
+
+![157](157.jpg)
+![158](158.jpg)
+![159](159.jpg)
