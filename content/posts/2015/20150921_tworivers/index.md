@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "09.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/09.jpg"
 +++
 
 Today was a slow day of learning how to live life like a local rather than a
@@ -24,7 +24,7 @@ We also wandered around the residential streets in town and found blocks lined
 with trees with little gnome homes built at their bases. It was charming and
 one of many little things that consistently surprises me about Durango.
 
-![01](01.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/01.jpg)
 
 Today was the first time I was able to get some alone time and I took advantage
 of my solo time to go on a hike while my brother and dad took a bike ride
@@ -38,24 +38,24 @@ head out alone into the woods not knowing what I would find. The trail was
 framed by autumn colors and wove through a canyon next to a crystal clear
 river.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/04.jpg)
 
 I hiked to where two rivers met and found autumn at the crossroad waiting for
 me.
 
-![05](05.jpg)
-![06](06.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/06.jpg)
 
 After hiking for some time I made camp and sat on the river’s edge and read my
 book. Listening to the river running by as it cascaded over a series of small
 waterfalls I sat with my feet dangling over the water as rainbow trout swam
 underneath me.
 
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/09.jpg)
 
 Sitting in silence out in the woods is one of the most peaceful experiences and
 I treasure that time dearly. Hiking in Colorado is such a lovely
@@ -74,7 +74,7 @@ The only time my peace was (happily) intruded upon was when my brother and dad
 rolled down the same trail I was on and stopped to say hello and check out the
 fish swimming in the river below us.
 
-![10](10.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150921_tworivers/10.jpg)
 
 It was a peaceful day and a much needed one at that to recenter everything that
 is important to me. When so much is in flux and changing around you it is easy

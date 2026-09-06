@@ -6,9 +6,9 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090728_lakes/01.jpg"
 +++
 
 Not much to say today, but I did like these two photos of Nick and Monica.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090728_lakes/02.jpg)

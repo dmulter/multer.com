@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090226_gracie/01.jpg"
 +++
 
 There's a very special bond between our dog and her stuffed snake. And you

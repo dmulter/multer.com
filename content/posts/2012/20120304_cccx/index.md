@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/01.jpg"
 +++
 
 It's so nice to have a great, local road race right in our area, and I think
@@ -15,14 +15,14 @@ coming into the finish, though the winner had quite a burst of speed to finish
 cleanly in front of everyone. Gabe pushed hard all the way to the end to take
 fourth place.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/04.jpg)
 
 Gabe also raced in a small juniors field and took first, but he's definitely
 proud of his fourth and is looking good with his medal.
 
-![05](05.jpg)
-![06](06.jpg)
-![07](07.jpg)
-![08](08.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120304_cccx/08.jpg)

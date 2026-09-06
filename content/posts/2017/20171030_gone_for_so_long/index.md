@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['poetry']
 
 [cover]
-image = "graffiti.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2017/20171030_gone_for_so_long/graffiti.jpg"
 +++
 
 I know I have been gone for so long now  

@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "13.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/13.jpg"
 +++
 
 I woke up bright and early this morning with only one thing on my mind: hiking
@@ -42,7 +42,7 @@ alpine lakes. The final lake lay at an altitude of almost two miles above sea
 level, but I had my eyes on the prize and didn’t plan on stopping until I
 could put my feet into the cold clear emerald waters of that final lake.
 
-![01](01.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/01.jpg)
 
 It has been about six years since I last stepped foot in Estes Park and Rocky
 Mountain National Park. In many ways, my last trip to this place was the
@@ -63,19 +63,19 @@ alpine lakes. The final lake lay at an altitude of almost two miles above sea
 level, but I had my eyes on the prize and didn’t plan on stopping until I
 could put my feet into the cold clear emerald waters of that final lake.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/02.jpg)
 
 I packed everything I had (including Mama the Llama and my croissant my the
 Laughing Goat) and hopped on a park and ride that would take me to the first
 of the four lakes, the incredibly popular Bear Lake.
 
-![03](03.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/03.jpg)
 
 Bear Lake was just the tip of the iceberg as far as beauty goes for the day and
 its still waters made a perfectly wonderful start to the adventure ahead.
 
-![04](04.jpg)
-![05](05.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/05.jpg)
 
 The path from Bear Lake lead upward into a Gorge with a glacier at its end, but
 everything from my point of view was all sunshine. The weather was splendid,
@@ -83,15 +83,15 @@ perfectly warm but with a breeze that rustled the aspen leaves causing them to
 cascade gentle down from the sky onto the trail. The sky was a deep blue and
 you could feel the thinness of the air crisply in your lungs.
 
-![06](06.jpg)
-![07](07.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/07.jpg)
 
 I made my way between trees and boulders, over rocks and fallen autumn leaves,
 and found myself standing on what felt like the top of the world. It was
 enough to make my heart scream at the top of my lungs; it is a moment like
 this that makes you feel truly alive.
 
-![08](08.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/08.jpg)
 
 After hiking with a smile from ear to ear on my face up the mountain side I
 arrived at the second lake of the day, Nymph Lake. Covered in lily pads and
@@ -100,14 +100,14 @@ nymphs were hiding under the lily pads waiting for all of the hikers to leave
 before leaping from their hiding places to skip and dance across the still
 lake surface.
 
-![09](09.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/09.jpg)
 
 From Nymph Lake the climb continued and the air was getting thinner and thinner
 resulting in a harder and harder ascent for me and my sea level lungs. But
 every gasping breath was well worth the effort because every step I took
 revealed an even more beautiful sight than the last.
 
-![10](10.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/10.jpg)
 
 I repeatedly crossed over a stream that rushed by me from the third (and my
 personal favorite) lake of the day, Dream Lake. Just like Nymph Lake, the name
@@ -128,14 +128,14 @@ that occasionally disturbed the still surface by pecking at bugs sitting on
 the water. The fish were everywhere, slowly drifting through the clear waters
 undisturbed and unafraid of the people surrounding the lake.
 
-![11](11.jpg)
-![12](12.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/12.jpg)
 
 I pushed on from Dream Lake knowing that the end goal was not too far off
 (albeit up the steepest portion of the trail yet).
 
-![13](13.jpg)
-![14](14.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/14.jpg)
 
 After befriending a young hiker ( a ten year old girl who followed me up the
 trail as her parents and brother lagged behind), we ascended the final portion
@@ -151,14 +151,14 @@ attacked by a horde of chipmunks who were literally crawling on the backs of
 the hikers to steal crumbs. One chipmunk even tried to take a bite out of Mama
 the Llama until I chased it away.
 
-![15](15.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/15.jpg)
 
 The driftwood surrounding the lake was a massive accumulation of bone white
 tree trunks scattered on the rocky shoreline. With some difficulty, I made my
 way down to the water’s edge over the boneyard of driftwood and took a break
 with my bare feet in the glacial waters.
 
-![16](16.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/16.jpg)
 
 With the finish line crossed I made a decision that made the rest of my day
 perfect. I decided to return to Dream Lake since it was my favorite of the day
@@ -167,14 +167,14 @@ the day. So I hiked back down to Dream Lake and found a perfect hammock spot
 on a rocky out cropping into the lake and set myself up with my croissant from
 the Laughing Goat in Boulder and my book. It was marvelous.
 
-![17](17.jpg)
-![18](18.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/17.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/18.jpg)
 
 I sat there for several hours just basking in the sun and soaking in
 everything. It was truly glorious but I wound up getting pretty sunburned
 since I was so much closer to the sun up in the Rocky Mountains than normal.
 
-![19](19.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/19.jpg)
 
 After I was too warm to continue resting in my hammock I packed up and
 descended the mountain back to the first Lake where I took the shuttle back to
@@ -186,9 +186,9 @@ stood atop.
 
 I even managed to get photobombed by a chipmunk at the Rainbow Curve.
 
-![20](20.jpg)
-![21](21.jpg)
-![22](22.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/21.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/22.jpg)
 
 At the top where the Alpine Visitor Center sat I walked around the fragile
 Alpine Tundra environment that stretched across the ridge. I was above the
@@ -197,8 +197,8 @@ line. The road going up there was slightly terrifying because there were no
 guard rails despite being precarious perched on a road with no shoulder and
 gigantic drops on either side.
 
-![23](23.jpg)
-![24](24.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/23.jpg)
+![24](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/24.jpg)
 
 The air was getting a little too thin for my sea level lungs though, which
 became my general thought of the day, and with my head swimming and seemingly
@@ -207,15 +207,15 @@ bearable elevation. Dropping back down to the valley I took some time to look
 at the colors and was rewarded with a bonus sighting, a small elk family
 consisting of a Bull, a doe and an adorable little baby. 
 
-![25](25.jpg)
-![26](26.jpg)
+![25](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/25.jpg)
+![26](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/26.jpg)
 
 The baby was eating while the parents were settling down to rest in the field
 and he was quite the photogenic little guy. 
 
-![27](27.jpg)
-![28](28.jpg)
-![29](29.jpg)
+![27](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/27.jpg)
+![28](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/28.jpg)
+![29](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lungs/29.jpg)
 
 I left them be and exited the park exhausted but satisfied. I wandered slowly
 on sore feet through Estes Park and stopped to get some Nepalese food outside

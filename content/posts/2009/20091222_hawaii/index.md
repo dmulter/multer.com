@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091222_hawaii/01.jpg"
 +++
 
 Today we're having lunch at the [Mauna Kea Resort]
@@ -16,6 +16,6 @@ something different. The waves are great for body surfing, but I wish I had my
 boogie board from back home. It sure is nice not wearing a wetsuit for a
 change.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091222_hawaii/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091222_hawaii/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091222_hawaii/04.jpg)

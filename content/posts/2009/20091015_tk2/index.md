@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091015_tk2/01.jpg"
 +++
 
 I've been wanting to pickup a new bike to use at the velodrome for a long time

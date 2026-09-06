@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "26.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/26.jpg"
 +++
 
 My last few days in Berlin before I headed off to England where a mixture of
@@ -20,57 +20,57 @@ cafe with beautiful breakfast spreads of fruit, bread, meats, and cheeses.
 After a lot of luxurious relaxing we wandered about the streets taking in the
 sights.
 
-![01](01.jpg)
-![02](02.jpg)
-![03](03.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/03.jpg)
 
 We also wandered along the canal which had lots of beautiful buildings and
 green covered walkways below little tree canopies next to the river.
 
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/06.jpg)
 
 We also explored a beautifully green park that had an old bunker up on a hill.
 But first we enjoyed the outdoors and the wondrous greenery of the place.
 
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/09.jpg)
 
 Frolicking around under the canopy of a willow tree, climbing hills, and
 wandering through pond areas with cute little bridges.
 
-![10](10.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/10.jpg)
 
 Awkwardly though, we climbed one hill to be directly faced with a couple very
 loudly having sex. Embarrassed and shocked at the public display and ran down
 the hill laughing in surprise.
 
-![11](11.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/11.jpg)
 
 After that and some cool graffiti we encountered we found a lovely little rose
 garden without any roses but lots of wisteria. We sat on the railing under the
 wisteria looking out through its branches onto the beautiful gardens just
 enjoying a quick moment of sunshine after several days of solid grey.
 
-![12](12.jpg)
-![13](13.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/13.jpg)
 
 Then we scaled upwards to the top of the bunker where we could see most of the
 city past the green tree tops of the gardens.
 
-![14](14.jpg)
-![15](15.jpg)
-![16](16.jpg)
-![17](17.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/15.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/17.jpg)
 
 The bunker area was very cool and the wind was blowing so strongly we could
 barely keep ourselves together. Through the mist of rain and the wind we
 explored the top of the bunker and then returned to where I had gotten coffee
 the previous day to get a Berlin tradition, curry wurst.
 
-![18](18.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/18.jpg)
 
 This funny tradition of sausage (maybe just a boiled hot dog?) with ketchup
 mixed with curry powder as well as a generous helping of french fries. IT is a
@@ -78,9 +78,9 @@ funny dish that most Berliners affectionately say is something you really only
 get once but we went to one of the best places for it and it wasn’t too bad.
 Every city has its traditions I suppose, some more well loved than others.
 
-![19](19.jpg)
-![20](20.jpg)
-![21](21.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/19.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/21.jpg)
 
 The following day I began my day with an outing that was extremely relaxing but
 possibly  a bit morbid. Maiya told me about a wonderful little cafe, Cafe
@@ -91,7 +91,7 @@ all only broken by the sound of birds singing. I sat there for a long time
 wrapped in a blanket, which is something cafes and restaurants in Berlin seems
 to do is put out blankets for every chair, writing while enjoying the peace.
 
-![22](22.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/22.jpg)
 
 After a relaxing morning of writing and drinking hot coffee we decided to go
 out and enjoy a food market extravaganza that was a huge market hall filled
@@ -100,8 +100,8 @@ many different types of food, so many smells wafting in the smoky air of the
 market halls high ceilings and after the semester in Italy with only italian
 food in sight this was like my carnival.
 
-![23](23.jpg)
-![24](24.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/23.jpg)
+![24](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/24.jpg)
 
 It was so hard to choose from all of the different types because everything
 looked so amazing but I decided to go for Thai food since it is my favorite
@@ -110,7 +110,7 @@ saturated strawberries that was divine. I got to meet some of Maiya’s friends
 from her program and it was really great getting to know them even if it was
 just for a short little bit.
 
-![25](25.jpg)
+![25](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/25.jpg)
 
 This night was my last night in Berlin and it did not disappoint whatsoever.
 After the food market we went for a walk in the park where we got to see some
@@ -151,16 +151,16 @@ the sun, the tall grasses, a space to run or bike, or fly kites. It really is
 a nice space for everyone to share. Maiya and I wandered around enjoying my
 last morning here and our last morning together for some time to come.
 
-![26](26.jpg)
-![27](27.jpg)
-![28](28.jpg)
-![29](29.jpg)
+![26](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/26.jpg)
+![27](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/27.jpg)
+![28](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/28.jpg)
+![29](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/29.jpg)
 
 There were even people skateboarding with attached kites and sails to drag them
 along down the long airport runways.
 
-![30](30.jpg)
-![31](31.jpg)
+![30](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/30.jpg)
+![31](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140524_berlin/31.jpg)
 
 It was a good end to my time  in Berlin and I was very pleased overall with the
 first leg of my journey. I had a new appreciation for Berlin and had enjoyed

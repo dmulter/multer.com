@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "04.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/04.jpg"
 +++
 
 Five days after being on the road we finally decided to get away and get off
@@ -27,34 +27,34 @@ Hiking through the aspen forests we found hidden messages and little surprises
 everywhere. My favorites were a smiley face tree and a lovely little reminder
 to Live, Laugh, and Love no matter where you find yourself.
 
-![01](01.jpg)
-![02](02.jpg)
-![03](03.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/03.jpg)
 
 After hiking for about a mile we came upon the lake that filled a small basin
 between the surrounding mountains. The water was still, the trees changing
 color, and small fish biting at the surface of the lake.
 
-![04](04.jpg)
-![05](05.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/05.jpg)
 
 After going non-stop for almost a week it was about time to slow down and take
 a break. So I found a spot, set up the hammock, and started a new book. But I
 let Mama the Llama try out the view first.
 
-![06](06.jpg)
-![07](07.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/07.jpg)
 
 Reading Kerouac’s On the Road at this point in my life is beyond applicable and
 I don’t think I could have found a better spot to sit back, relax, and read.
 
-![08](08.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/08.jpg)
 
 We stayed in this pristine spot for a couple of hours of hammocking, book
 reading, hiking along the lake shore, and unsuccessful fly fishing.
 
-![09](09.jpg)
-![10](10.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/10.jpg)
 
 Begrudgingly we left Spud Lake to return to Durango, but the best part of it
 all was that in either location everything was equally wonderful, albeit
@@ -63,7 +63,7 @@ natural geyser just on the side of the highway. Yes, that is its natural,
 unenhanced color. It was a truly bizarre little roadside attraction and is a
 great example of how incredible the scenery is in Colorado.
 
-![11](11.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150920_lake/11.jpg)
 
 I have been loving Colorado and cannot believe the natural wonders that are
 hiding down empty dirt roads and behind curtains of aspens. There is something

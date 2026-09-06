@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/01.jpg"
 +++
 
 George invited us along for a unique hike up near his place. The[Cahill Ridge
@@ -19,35 +19,35 @@ this very cold morning, but the rest of us are ready to enjoy a great day.
 
 Today's hike will be out to just past the five mile marker.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/05.jpg)
 
 Our usual hikes are high speed with no stops, but today we're enjoying lots of
 great conversation and even a nice lunch stop.
 
-![06](06.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/06.jpg)
 
 The views are even better heading back the way we came.
 
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
-![10](10.jpg)
-![11](11.jpg)
-![12](12.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/10.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/12.jpg)
 
 It's great having family so close.
 
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/15.jpg)
 
 One last view before heading back to the cars and over to George's place to get
 Gabe. I know he's been enjoying his time playing with Zach.
 
-![16](16.jpg)
-![17](17.jpg)
-![18](18.jpg)
-![19](19.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/17.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/18.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/19.jpg)

@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140514_guardians/01.jpg"
 +++
 
 The victory temples of old stand a solitary vigil in the midst of a modern city

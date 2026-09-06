@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/01.jpg"
 +++
 
 Even though it has only been three days since I set off on my own to take this
@@ -60,18 +60,18 @@ views of the mountain range as well as the city of Boulder down below them. I
 hiked through Ponderosas and up steep hills lined with breezy grasses and
 rocky trails up to the top of the mesas.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/06.jpg)
 
 There was an astonishing array of landscapes on the four miles of trails I
 traversed which made for an interesting and ever evolving experience of the
 nature in Boulder.
 
-![07](07.jpg)
-![08](08.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/08.jpg)
 
 I managed to only get lost once and then some how actually helped some other
 girls who were visiting the park for the first time as well find their way
@@ -86,27 +86,27 @@ density human interaction after having spent so much time alone for three days
 straight. Everyone was so friendly, talkative, and helpful at the market even
 though I was slightly lost and aimless amongst the crowds.
 
-![09](09.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/09.jpg)
 
 The market was huge so I wandered up and down the stands for quite some time
 before going in for some conversations, samples, and small purchases. My first
 stop, naturally, was at a local bakery’s stand where I got an amazing almond
 croissant to eat as I wandered around with big hungry and fascinated eyes.
 
-![10](10.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/10.jpg)
 
 I visited two produce stands where I bought some tomatoes and carrots for the
 road tomorrow. One had a stunning array of colorful turnips, beats, and
 carrots while the other had a beautiful selection of green veggies like kale,
 swiss chard, and many other delectable items. 
 
-![11](11.jpg)
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
-![16](16.jpg)
-![17](17.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/15.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/17.jpg)
 
 The second stand had an incredibly sociable and kind staff, which led to an
 encounter in which my inner introvert ran away screaming while I was left
@@ -127,13 +127,13 @@ So naturally I went and spent some time smelling flowers at a stand clear on
 the other side of the market that was full of Dahlias and sunflowers (two of
 my favorite flowers).
 
-![18](18.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/18.jpg)
 
 Finally I rounded out my time at the market with some fresh tamales from the
 Amaizing Corn Tortilla stand. Get it, aMAIZing. May or may not have been the
 only reason I decided to try them out, but you will never know. 
 
-![19](19.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/19.jpg)
 
 Then I wandered down the incredibly popular Pearl Street Mall, which is a long
 expanse of street closed to cars and filled with shops and plenty of street
@@ -141,8 +141,8 @@ performers. Everything from bango players, clowns with balloons, mimes, and
 performers balancing on rollers while hold fire could be found on the couple
 of blocks that make up the Pearl Street Mall.
 
-![20](20.jpg)
-![21](21.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150926_lonely/21.jpg)
 
 For the rest of the day I jumped from coffee shop to coffee shop writing postcards and working over delicious cups of coffee from Boxcar Coffee, Ozo and the Laughing Goat again. The mochas at Ozo are to die for, I may have to go back before I leave early tomorrow morning for one for the road.
 

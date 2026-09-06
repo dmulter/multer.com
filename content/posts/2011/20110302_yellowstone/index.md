@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110302_yellowstone/01.jpg"
 +++
 
 This year Monica and I are headed back to [Yellowstone]
@@ -23,9 +23,9 @@ the point I got a bad fever and cough for the last few days. It was a treat to
 meet Chris Miller and his wife for dinner and talk about genealogy and life in
 Montana.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
-![07](07.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110302_yellowstone/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110302_yellowstone/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110302_yellowstone/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110302_yellowstone/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110302_yellowstone/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110302_yellowstone/07.jpg)

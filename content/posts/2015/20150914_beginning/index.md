@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150914_beginning/01.jpg"
 +++
 
 I want to begin again.
@@ -63,7 +63,7 @@ the things I tried, the hobbies I took up, and the adventures I had into the
 vast unknown world full of different opportunities, but I did lose an
 important part of myself as a result.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150914_beginning/02.jpg)
 
 I was lost in the craze of a thousand possibilities and the path that had
 always been so clear to me before was obscured. Like Dante, “Midway upon the

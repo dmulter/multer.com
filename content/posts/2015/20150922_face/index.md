@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "03.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/03.jpg"
 +++
 
 The rain against the window pane sounds like chimes in the wind; a sound I have
@@ -34,27 +34,27 @@ that were enveloped in the branching arms of colorful aspens. This trail was
 more arid with cacti, bare twisting trees growing out of boulders, and small
 but colorful wildflowers.
 
-![01](01.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/01.jpg)
 
 Amongst the scenery we found a hidden gem that we almost passed by: a face in
 the low lying forest skillfully carved into a tree stump.
 
-![02](02.jpg)
-![03](03.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/03.jpg)
 
 We then continued on along the trail and made it to the viewpoint that
 overlooked the entire city of Durango and the Animas River snaking out of town
 towards the surrounding mountains.
 
-![04](04.jpg)
-![05](05.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/05.jpg)
 
 We sat on the edge of the mountain enjoying the view and reveling in the beauty
 that this amazing town has to afford.
 
-![06](06.jpg)
-![07](07.jpg)
-![08](08.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150922_face/08.jpg)
 
 This is my brother’s city, his home and I am so grateful that I have been able
 to see it through his eyes and experience the things he has grown to love

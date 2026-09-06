@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091109_roadies/01.jpg"
 +++
 
 Gabe and I are off to ride the hills around Scotts Valley. It's nice to have

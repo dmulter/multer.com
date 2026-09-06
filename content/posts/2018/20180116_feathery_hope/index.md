@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['poetry']
 
 [cover]
-image = "egret.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2018/20180116_feathery_hope/egret.jpg"
 +++
 
 A fragile and feathery hope grows in my chest  

@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "04.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/04.jpg"
 +++
 
 On the hunt for a new home, seeking graduate school with great coffee, better
@@ -24,8 +24,8 @@ towards the constant change of my future. Despite my deep desire for
 everything to remain exactly the same, the world is shifting underneath my
 feet and I can either get off the crumbling rock or let my fear paralyze me.
 
-![01](01.jpg)
-![02](02.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/02.jpg)
 
 The cup of coffee and an hour spent in contemplation of strangers walking down
 the street brought me back to reality: I had things to accomplish and places
@@ -36,18 +36,18 @@ this coastal drive was far different from the ones I was used to in
 California. Normally the ocean is my coastal companion, but this time Lake
 Michigan lined the road I drove on towards Evanston.
 
-![03](03.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/03.jpg)
 
 I toured the entire campus for several hours making some especially long stops
 at the English Department in University Hall and the main libraries, Deering
 and University Libraries.
 
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/09.jpg)
 
 The views all around campus where beautiful and very nicely accented by the
 fall leaves and the emerald hues of Lake Michigan. The gardens and greenery
@@ -55,16 +55,16 @@ all around the campus were stunningly beautiful and the entire trip was
 exceedingly pleasant all around. I thoroughly enjoyed the school and
 everything the campus had to offer.
 
-![10](10.jpg)
-![11](11.jpg)
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/10.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/15.jpg)
 
 After walking the entire campus I finally (and begrudgingly) left Northwestern.
 However, when I got back to Chicago I visited another fantastic coffee shop in
 Pilsen called Cafe Jumping Bean, which served as the perfect end to a long
 day.
 
-![16](16.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151103_northwestern/16.jpg)

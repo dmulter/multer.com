@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "thistle.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2017/20171231_renaissance/thistle.jpg"
 +++
 
 Honestly, I do not know how to begin again. This space was my home for so many years when my words could find no ears to fall upon with quiet urgency. For those who have joined me on my journey either part way or all the way back eight years ago from the very beginning, and for those who are starting today, know this: the last two years my words have been nonexistent. I could name a thousand reasons that left me hesitating with my fingers hovering above a dusty keyboard, but none are sufficient to strip the guilt away from my heart. Writing has always been the life-blood of my being and to halt the progress of pen on paper is to bring my heartbeat to a startling stand still. However, that isn’t even true. It was more gradual than that, there was no jarring day where the words stopped coming, it was a slow, drawn out decay of all that made me, me.
@@ -19,7 +19,7 @@ On the eve of a New Year, I decided to begin chipping away at the fossil of my b
 
 These last two years have been the most difficult years of my life thus far. After I returned from my half-year road trip across the country by myself the transition from nomadic wayfarer to stable breadwinner was painfully slow and full of yearning for the open stretches of road and the feeling of standing on the edge of a world that was mine to own. When I finally landed an impressive job at an up-and-coming tech company, got the apartment I always dreamed of with one of my best friends, and moved to San Francisco to live out the life I felt was the epitome of my dreams, it quickly collapsed into an unrecognizable nightmare.
 
-![keys](keys.jpg)
+![keys](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2017/20171231_renaissance/keys.jpg)
 
 I had two weeks of this perfect life. Two weeks until the world came crashing down around me. To make a long story short, after a sudden and drastic change in my health I was left weak, confused, scared, and without a name for a mysterious illness that plagued me. I spent six long months running from doctor to doctor, test to test, and hospital to hospital trying to find out what was wrong with me until I was tentatively diagnosed with a rare Neurological disorder called Mal de Débarquement Syndrome (MdDS).
 
@@ -27,4 +27,4 @@ By the end of 2016 and partway through 2017 I had lost my fancy job, had to leav
 
 Time does not heal all wounds, but it does normalize the pain of even the most devastating injuries. This last year has been my gradual realization and reclamation of the most important parts of me. I am slowly adjusting to life with my illness and reacquainting myself with the petrified words lodged in my mind. If 2017 was the year of painful loss and slow recovery, then I hope that 2018 is the year of new beginnings for old passions. My resolution for this upcoming year is to undergo my own personal Renaissance. The New Year will be a space not for a new me, but the rebirth of who I was. Will you join me?
 
-![ocean](ocean.jpg)
+![ocean](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2017/20171231_renaissance/ocean.jpg)

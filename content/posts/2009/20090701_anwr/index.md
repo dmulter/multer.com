@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "03.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090701_anwr/03.jpg"
 +++
 
 Matt and I were planning on heading to Alaska for a week of backpacking in the
@@ -20,6 +20,6 @@ First we've got to head north from Fairbanks via the [Dalton Highway]
 stretching over 400 miles to the northern coast of Alaska. We make a stop at
 the official Arctic Circle marker before continuing north.
 
-![01](01.jpg)
-![02](02.jpg)
-![03](03.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090701_anwr/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090701_anwr/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090701_anwr/03.jpg)

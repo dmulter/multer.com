@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/01.jpg"
 +++
 
 My final full day in Chicago was a blur of car horns, books, helicopter noise,
@@ -59,7 +59,7 @@ I emerged from the library with a mind full of poetry and paintings onto the
 urban streets of Chicago, ready to get lost in between the towering
 buildings.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/02.jpg)
 
 After getting some coffee at Bowtruss, I wandered all over the place but the
 riverwalk was definitely my favorite. The different bridges and the sun
@@ -71,25 +71,25 @@ people all around me. Chicago truly is a beautiful city, there is so much for
 the eyes to feast upon everywhere you look. Everything vibrates with energetic
 life.
 
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/05.jpg)
 
 I took a break at Do-Rite Donuts where I got a delicious maple bacon donut. It
 blew my mind. I had never had a donut like this before and I sat down by the
 river to enjoy the view and the food.
 
-![06](06.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/06.jpg)
 
 I also had to see the iconic sights like Cloud Gate or as it is commonly called
 The Bean.
 
-![07](07.jpg)
-![08](08.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/08.jpg)
 
 My obligatory Bean selfie.
 
-![09](09.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/09.jpg)
 
 After my touristy stops, I wandered back down the Magnificent Mile or Michigan
 Ave shopping streets where I stumbled upon a food truck. Right in from of the
@@ -99,7 +99,7 @@ pierogi food truck serving up tasty dumplings with some amazing toppings. The
 food was unbelievable; I had braised beef and spinach/feta pierogis topped
 with spicy grilled onions, sauerkraut, and bacon. It was heavenly.
 
-![10](10.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/10.jpg)
 
 It was a great day of wandering, but by the end my feet were tired and the sun
 had set on the city. The shadows cast by the tall buildings created a canopy
@@ -107,8 +107,8 @@ of darkness only broken apart of slivers of light high above. In this
 artificial shade I left the city behind to go pack my belongings for the road
 ahead.
 
-![11](11.jpg)
-![12](12.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151112_chicago/12.jpg)
 
 I left Chicago that next afternoon after a morning at the Ferrara Bakery, a visit to my aunt’s studio, and a fantastic final lunch at the Art Institute.
 

@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/01.jpg"
 +++
 
 I am caught somewhere between way to busy and being too tired to reflect to put
@@ -29,28 +29,28 @@ wonderful lakes, crisscrossed by trestles and interwoven by a state hiking
 trail. How amazing is that? I totally stumbled upon it on accident while
 trying to take a picture of a trestle. 
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/02.jpg)
 
 The trail was a long and winding stretch of covered pathway, framed by trees
 and surrounded by lakes. I felt like I was weaving my way through a wonderland
 of lakes. 
 
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/05.jpg)
 
 The trail took my breath away between the aqua green waters and the fall
 colored leaves. It was a great accidental side trip before I crossed over the
 state line into home territory, Michigan. 
 
-![06](06.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/06.jpg)
 
 I also took a few random side breaks to campgrounds, lakes, and boat launches
 just to sneak off the main road and find some water or fall forests to
 explore. 
 
-![07](07.jpg)
-![08](08.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/08.jpg)
 
 The fall colors from Minocqua upwards were unbelievable. Colorado was a land of
 golden trees but here were so many shades of oranges and reds, trees the color
@@ -64,8 +64,8 @@ cascading waterfalls at Bond Falls compounded with the fall colors was the
 last step in total and uncontrollable excitement about being back in
 Michigan.
 
-![09](09.jpg)
-![10](10.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/10.jpg)
 
 I had made it, driving in along the rainbow of fall colors I rolled down my
 windows, blasted my music, and felt the cold crisp air of impending winter,
@@ -80,4 +80,4 @@ staying put. No more open road for a little while but there is still adventure
 to be had in this quiet land. And I have every intention of not wasting a
 single second of my precious time up here in my home away from home.
 
-![11](11.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151006_michigan/11.jpg)

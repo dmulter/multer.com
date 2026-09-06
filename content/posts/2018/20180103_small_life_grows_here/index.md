@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['poetry']
 
 [cover]
-image = "frosty-ground-cover.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2018/20180103_small_life_grows_here/frosty-ground-cover.jpg"
 +++
 
 Be careful where you tread  

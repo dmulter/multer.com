@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "30.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/30.jpg"
 +++
 
 After a lazy morning at Cuccuma getting more cake and chai lattes and a brief
@@ -15,8 +15,8 @@ passport, I headed into Mitte, the center of the city for a free tour. With
 the Sandeman’s free tour of Berlin, we started at the Brandenburg Gate right
 in the heart of Berlin.
 
-![01](01.jpg)
-![02](02.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/02.jpg)
 
 We wandered through Mitte in the rain, caught somewhere between sunshine and
 downpour at all times. After the Gate we went to the Memorial for the Murdered
@@ -33,11 +33,11 @@ which I think makes for an interesting memorial because whether one likes it
 or not, it gets people thinking about those who were murdered, remembering,
 feeling, and trying to understand what happened in that dark time.
 
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
-![07](07.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/07.jpg)
 
 Our tour guide was smart to point out that he thought it was really great how
 the German people do not try to hide what happened during the Holocaust. What
@@ -50,8 +50,8 @@ responsible for, so monuments such as this one in Berlin are a great show of
 regret and humility that makes someone such as myself who is Jewish, grateful
 for this memorial regardless of what I think it stands for.
 
-![08](08.jpg)
-![09](09.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/09.jpg)
 
 In great contrast, we then went to the place that now stands above the Fuhrer
 bunker, the place where Hitler and Ava Brown killed themselves at the end of
@@ -61,13 +61,13 @@ lets you know what once was. The contrast between the memorial to the Murder
 Jews and the utter lack of note of the Fuhrer bunker is greatly symbolic and
 interesting to experience.
 
-![10](10.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/10.jpg)
 
 After that we continued on our walk around Berlin visiting various sights that
 once had Nazi buildings on them that do or do not stand any longer, learning
 about the history of Berlin.
 
-![11](11.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/11.jpg)
 
 We saw a small section of the Berlin Wall within the city and heard some
 incredible stories about the wall and some escape attempts that either
@@ -84,30 +84,30 @@ his screams just on the other side of the wall. It was a heartbreaking story
 and crazy to listen to this while looking at the ruined façade of the wall
 that held so much history, misery, and pain.
 
-![12](12.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/12.jpg)
 
 After that we passed Checkpoint Charlie, one of the major crossing points of
 the wall from East to West that is a clear example of the Capitalist
 tendencies on one side and the communist side on the other.
 
-![13](13.jpg)
-![14](14.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/14.jpg)
 
 We then wandered into a square with two really amazing churches and a concert
 hall that made for an impressive space with beautiful architecture.
 
-![15](15.jpg)
-![16](16.jpg)
-![17](17.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/15.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/17.jpg)
 
 Humboldt University was next with the memorial to the book burning done in
 front of the university in World War Two. This is the university where Maiya
 is studying in Berlin and it was a beautiful structure right in the center of
 Berlin.
 
-![18](18.jpg)
-![19](19.jpg)
-![20](20.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/18.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/19.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/20.jpg)
 
 After that our last stop on the tour, which when we finished, some friends that
 I made on the tour and I decided to continue on to Museum Island. I made some
@@ -117,39 +117,39 @@ Museum Island where we sat out in the grass enjoying the sun and the view of
 the Berliner Dom. It was a beautiful space I much enjoyed, sandwiched between
 museums and beautiful buildings and the Spree running on either side of us.
 
-![21](21.jpg)
-![22](22.jpg)
-![23](23.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/21.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/22.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/23.jpg)
 
 I went up into the Berliner Dom and enjoyed a view of Berlin right from the
 center of the city, which was pretty fun. It wasn’t too high up but we got to
 hear the bells ring and afterwards I laid out in the grass for a long time
 just listening to them ring.
 
-![24](24.jpg)
-![25](25.jpg)
-![26](26.jpg)
-![27](27.jpg)
-![28](28.jpg)
-![29](29.jpg)
-![30](30.jpg)
-![31](31.jpg)
-![32](32.jpg)
+![24](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/24.jpg)
+![25](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/25.jpg)
+![26](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/26.jpg)
+![27](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/27.jpg)
+![28](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/28.jpg)
+![29](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/29.jpg)
+![30](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/30.jpg)
+![31](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/31.jpg)
+![32](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/32.jpg)
 
 After my inner city adventure I returned to Kreuzberg, my favorite little
 neighborhood and we decided to go get Doner at the famous Mustafa’s, which had
 some really incredible food.
 
-![33](33.jpg)
-![34](34.jpg)
-![35](35.jpg)
+![33](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/33.jpg)
+![34](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/34.jpg)
+![35](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/35.jpg)
 
 We ate our doner while walking around, eventually finding ourselves at
 Viktoriapark which has an amazing waterfall looking up at the spire like
 monument in the center of the park.
 
-![36](36.jpg)
-![37](37.jpg)
+![36](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/36.jpg)
+![37](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140517_berlin/37.jpg)
 
 We sat there until the sun went down, got some ice cream and returned home
 after a long successful day of adventuring.

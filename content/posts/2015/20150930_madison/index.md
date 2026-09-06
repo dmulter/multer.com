@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/01.jpg"
 +++
 
 I woke up to the sound of rain against the window. It was the first time in a
@@ -34,21 +34,21 @@ and Colectivo. A roomy coffee shop with huge windows, bright furniture, and
 great study spaces, Colectivo was definitely instantly on my favorite coffee
 spot list.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/02.jpg)
 
 I took my coffee out into the cold rain to warm my fingers as we explored the
 state capital building. It was truly a magnificent piece of architecture and I
 loved escaping from the rain under their marbled ceilings and fancy decor.
 
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/05.jpg)
 
 It was quite the place and the square that it sat in was surrounded by adorable
 shops and fantastic restaurants.
 
-![06](06.jpg)
-![07](07.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/07.jpg)
 
 After we had circled the captial building a few times, marveling at the
 architecture from every angle, we drove through the University of
@@ -64,19 +64,19 @@ enclosure of nature next to an old historic home. The gardens, though small,
 were marvelous. Even in the rain, the vibrant crops like kale, colorful swiss
 chard, and of course corn, were incredibly beautiful.
 
-![08](08.jpg)
-![09](09.jpg)
-![10](10.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/10.jpg)
 
 There were some really unique looking flowers, like the ones below, that lit up
 the entire park with vivid colors. 
 
-![11](11.jpg)
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
-![16](16.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/15.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/16.jpg)
 
 From boardwalks to koi ponds, gazebos to vegetable gardens the entire garden
 was surprisingly entertaining. After marveling at the entire complex we
@@ -92,7 +92,7 @@ There were also some adorable little badgers having a fun time digging around
 in the mud, which was pretty quintessential for all of Wisconsin. Go Badgers
 🙂
 
-![17](17.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/17.jpg)
 
 After the zoo, my aunt and I parted ways for a bit and I went off on my own to
 the University’s Arboretum for a hike. It was pretty, but also pretty marshy
@@ -101,18 +101,18 @@ quite nice; the variety of different trail landscapes that I set foot on in
 just the few short miles I was able to hike was staggering. It was a
 wonderfully diverse park filled with prairies, lakes, and flowers.
 
-![18](18.jpg)
-![19](19.jpg)
-![20](20.jpg)
-![21](21.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/18.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/19.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/21.jpg)
 
 We finished out day with a sunset mini walk along some overgrown boardwalks
 next to Lake Monona. Stepping over a natural bubbling spring, we walked along
 the creaking old wooden planks along the rim of the lake watching the sky turn
 pink under wispy clouds. 
 
-![22](22.jpg)
-![23](23.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/22.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150930_madison/23.jpg)
 
 It was a good first day in Madison (finished with some really great pizza) but
 I am finding myself growing more and more tired as each day passes. Michigan

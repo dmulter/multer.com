@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/01.jpg"
 +++
 
 This year's Memorial Day Criterium is also the NCNCA Junior State
@@ -22,39 +22,39 @@ their plan, Tieni Duro certainly wasn't going to chase, and Matt from
 Specialized was on his own. I'm sure it was frustrating for a number of the
 riders, but big kudos to Henry for winning state.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
-![10](10.jpg)
-![11](11.jpg)
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
-![16](16.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/10.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/15.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/16.jpg)
 
 And this is what victory looks like. Nice effort by Zeke at the end to clinch
 his win in the JPS. Nice job SJBC!
 
-![17](17.jpg)
-![18](18.jpg)
-![19](19.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/17.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/18.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/19.jpg)
 
 Gabe and I decided to ride home from the race up Old Mt Madonna, and the route
 didn't disappoint. Beautiful roads out to the base, then an epic few miles of
 very steep dirt on our road bikes. Now we just have to do the climb up Mt
 Madonna from the usual side.
     
-![20](20.jpg)
-![21](21.jpg)
-![22](22.jpg)
-![23](23.jpg)
-![24](24.jpg)
-![25](25.jpg)
-![26](26.jpg)
-![27](27.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/21.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/22.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/23.jpg)
+![24](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/24.jpg)
+![25](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/25.jpg)
+![26](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/26.jpg)
+![27](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110530_memorialcrit/27.jpg)

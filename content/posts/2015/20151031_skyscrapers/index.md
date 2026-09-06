@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151031_skyscrapers/01.jpg"
 +++
 
 I have exchanged my endless forests with city streets and skyscrapers; swapped
@@ -44,8 +44,8 @@ just as the first light of day was creeping into the dark skies. I reached the
 Bishop Baraga Shrine, the snowshoe priest, at the southern end of Lake
 Superior to watch the sunrise and say goodbye to Lake Superior one last time.
 
-![02](02.jpg)
-![03](03.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151031_skyscrapers/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151031_skyscrapers/03.jpg)
 
 The sky turned such a vibrant pink for a moment and it felt like Lake Superior
 was bidding me farewell. It is so hard for me to leave that great lake behind
@@ -59,7 +59,7 @@ was really my only stop (besides a lot of detouring since so many of the roads
 I had planned to take were closed due to construction) until I reached
 Sheboygan on the coast of Wisconsin’s Lake Michigan.
 
-![04](04.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151031_skyscrapers/04.jpg)
 
 I said hello to Lake Michigan for the first time on this journey but did not
 linger long at the water’s edge.
@@ -67,8 +67,8 @@ linger long at the water’s edge.
 I made a major stop in Milwaukee, which is a surprisingly wonderful city! I had
 no idea it was so interesting and I ate lunch at the Milwaukee Public Market.
 
-![05](05.jpg)
-![06](06.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151031_skyscrapers/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151031_skyscrapers/06.jpg)
 
 It was a great break before heading into the stressful heart of Chicago
 traffic, which was completely overwhelming after a month of living somewhere

@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "05.jpg.webp"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/05.jpg.webp"
 +++
 
 Some of my favorite things about my apartment in Rome are the windows that open
@@ -23,7 +23,7 @@ behind every closed window lies a home, a world’s center, in which countless
 memories, experiences, and tiny everyday moments occur that I may never know
 about.
 
-![01](01.jpg.webp)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/01.jpg.webp)
 
 But now I find myself in the curious position of being on the other side of the
 window frame. I am lucky enough to be one of the lives that exist unseen from
@@ -35,7 +35,7 @@ looking. Just as those down below crane their necks to look to the windows
 above, those behind the windows are still looking out, either up or back down
 below.
 
-![02](02.jpg.webp)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/02.jpg.webp)
 
 I am not alone in this either, I see my neighbors, and the people across the
 street in the apartment buildings all around my own, and they are always
@@ -46,7 +46,7 @@ to look, never knowing the origin or the destination, only knowing the face of
 what they seek when it is right before them. Then and only then is it clear
 where or what our seeking eyes were wandering towards.
 
-![03](03.jpg.webp)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/03.jpg.webp)
 
 People will come to their windows, some will throw them open with grace of arms
 opened wide, others stand behind the glass with their nose only centimeters
@@ -63,7 +63,7 @@ that last moment of looking the object of desire will be made know. But often,
 nothing illuminates itself, and the seeker sadly turns and walks back into
 their home to return to the normal everyday actions that beckon back inside.
 
-![04](04.jpg.webp)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/04.jpg.webp)
 
 What intrigues me even more than watching the other seekers from within their
 window frames, are the windows that remain shut. The windows that, even if the
@@ -77,9 +77,9 @@ call of their soul to search? Or did they already find what their soul was
 endlessly searching for? Those windows interest me, the ones who seem to have
 no need to seek.
 
-![05](05.jpg.webp)
-![06](06.jpg.webp)
-![07](07.jpg.webp)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/05.jpg.webp)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/06.jpg.webp)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/07.jpg.webp)
 
 What the window frames will always be a mystery to me, the common thread that
 ties my life to all of those in the buildings around me. We are always
@@ -91,8 +91,8 @@ habit, but unknown to each other in our independent worlds that just keep
 spinning even in those small moments where the seeker takes a moment to poke
 their heads out of their world in search of something other.
 
-![08](08.jpg.webp)
-![09](09.jpg.webp)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/08.jpg.webp)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/09.jpg.webp)
 
 If every window holds a world, then every building is its own universe, and I
 have found myself an explorer of worlds, desiring nothing more than to know
@@ -100,4 +100,4 @@ the contents of what lies beyond the window just as an astronaut strives to
 discover new planets while drifting in the dark empty cold of space, knowing
 that there is more to life than your own little world.
 
-![10](10.jpg.webp)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_frames/10.jpg.webp)

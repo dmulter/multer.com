@@ -6,10 +6,10 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111106_cccx/01.jpg"
 +++
 
 Matt and Mack sure do look good up on that podium.
 
-![02](02.jpg)
-![03](03.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111106_cccx/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111106_cccx/03.jpg)

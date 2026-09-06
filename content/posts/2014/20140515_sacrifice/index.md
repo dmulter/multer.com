@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg.webp"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_sacrifice/01.jpg.webp"
 +++
 
 Smoke hangs in the air like the lazy wispy breath of a dragon left dormant, but
@@ -30,7 +30,7 @@ cigarette cascading into its pit of ash. Like an offering to the Gods, this
 burnt sacrifice has left only ashes and the smoke, the ghost of an offer, left
 to wander the pages of the books for an eternity of antiquity.
 
-![02](02.jpg.webp)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_sacrifice/02.jpg.webp)
 
 Disposable, discardable, and undesired, the remnants of a sacred offering
 turned to decay before the coals could fully die away. The slightest hint of
@@ -62,4 +62,4 @@ lights another cigarette a new. His eyes watch me through the glass as the
 cigarette burns red again, he tilts his head back letting out another fresh
 plume of smoke between grinning teeth. The dragon has begun again.
 
-![03](03.jpg.webp)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140515_sacrifice/03.jpg.webp)

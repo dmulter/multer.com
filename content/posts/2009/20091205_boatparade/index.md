@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "08.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/08.jpg"
 +++
 
 Charlotte, Gordon, and I decided it was about time we went to see the annual
@@ -18,22 +18,22 @@ colors. The highlights had to be the hula dancers on the outrigger, and the
 kayaks. It was also pretty funny when the end of our dock started to sink with
 all the people crowded on the end.
 
-![01](01.jpg)
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
-![10](10.jpg)
-![11](11.jpg)
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
-![16](16.jpg)
-![17](17.jpg)
-![18](18.jpg)
-![19](19.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/10.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/15.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/17.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/18.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091205_boatparade/19.jpg)

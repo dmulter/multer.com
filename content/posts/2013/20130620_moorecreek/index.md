@@ -6,10 +6,10 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2013/20130620_moorecreek/01.jpg"
 +++
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2013/20130620_moorecreek/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2013/20130620_moorecreek/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2013/20130620_moorecreek/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2013/20130620_moorecreek/05.jpg)

@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110924_henleyville/01.jpg"
 +++
 
 The Henleyville road race was quite the drive, but well worth it as it was
@@ -19,8 +19,8 @@ thinking they wouldn't make it. Turns out the two other Cat 4s were in the
 break and finished first and second place. Third place was worth five bucks
 and a t-shirt though!
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110924_henleyville/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110924_henleyville/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110924_henleyville/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110924_henleyville/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110924_henleyville/06.jpg)

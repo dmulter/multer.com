@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/01.jpg"
 +++
 
 Kansas City, Missouri to Madison, Wisconsin; day two of my long days to come.
@@ -29,8 +29,8 @@ chittering of the woods all to myself. The forest seemed alive and vibrating
 with wildlife that remained unseen but well heard. The lake was so still and
 serene, the perfect reflecting basin for the world that surrounded it.
 
-![02](02.jpg)
-![03](03.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/03.jpg)
 
 I laced up my hiking boots and headed out across some wonderful foot bridges,
 but I did not get very far before things started to get weird. First of all, I
@@ -43,13 +43,13 @@ to let it get to me, but being a woman hiking alone and having no one else in
 the park put me too on edge. So after a short bit I returned to my car and
 decided to drive around instead of hike because I was sort of freaked out.
 
-![04](04.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/04.jpg)
 
 Once I went back to my car I drove to a separate trail away from the strange
 noises of the forests I originally started by and found an amazingly beautiful
 boardwalk.
 
-![05](05.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/05.jpg)
 
 Again, I didn’t get far before everything went down hill. I didn’t even get
 onto the boardwalk, I was just taking pictures of it, when all of a sudden
@@ -134,10 +134,10 @@ the sunshine, the endless fields of corn, which suddenly seemed strangely more
 appealing than the woods to me after that morning , and my little Corgi
 friend.
 
-![06](06.jpg)
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/09.jpg)
 
 The rest of Iowa was more of the same, endless corn that swayed in the wind
 like the undulating waves of a dusty amber sea. After a while of this I
@@ -152,8 +152,8 @@ I just so happened to pull off in Des Moines, Iowa at a BBQ place called Smokey
 D’s BBQ Joint, which had been featured on the Food Network’s Diners, Drive-ins
 and Dives. So I got some good ol’ Iowa BBQ and enjoyed my break.
 
-![10](10.jpg)
-![11](11.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/10.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150929_missouri/11.jpg)
 
 The rest of the drive was a blur, nothing between Des Moines and Madison except
 corn, corn, and more corn. I do enjoy the silos though that break up the

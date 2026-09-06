@@ -5,7 +5,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110109_earlybird/01.jpg"
 +++
 
 Gabe's planning on doing all the Early Bird Criterium races this year, and here
@@ -16,6 +16,6 @@ getting shredded when a really fast Spokesman guy took off the front. After a
 couple of laps between two packs, Gabe dropped to the second pack and finished
 a strong first. Outstanding job Gabe!
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110109_earlybird/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110109_earlybird/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110109_earlybird/04.jpg)

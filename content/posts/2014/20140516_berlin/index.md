@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "27.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/27.jpg"
 +++
 
 I went to bed to the sound of rain and woke up to the sound of church bells
@@ -38,16 +38,16 @@ stall after stall of all sorts of things to mounted antlers, musical
 instruments, pipes, clothing, antique kitchen wares, to shoes and knick
 knacks, it was endless. Oh and also some pretty amazing food.
 
-![01](01.jpg)
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
-![10](10.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/10.jpg)
 
 I am a sucker for markets and it instantly made me love Berlin. Between
 intermittent down pours of rain we dodged through lake like puddles crossed
@@ -65,11 +65,11 @@ under the smoky awnings of the food tent. It was colorful, full of spices, and
 delicious. So incredibly different than all of the food I had gotten so
 accustomed to eating in Italy.
 
-![11](11.jpg)
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/11.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/15.jpg)
 
 Our collective purchases at the end of the day: Alice Phoebe Lou’s CD, Maiya’s
 Ukulele, earrings for me, a ring made from a fork for Maiya, ad lots of yummy
@@ -77,13 +77,13 @@ food. We left eh market to enter into the park area again where we climbed the
 hillside to find a huge expanse of the Berlin wall that overlooked the city of
 Berlin.
 
-![16](16.jpg)
-![17](17.jpg)
-![18](18.jpg)
-![19](19.jpg)
-![20](20.jpg)
-![21](21.jpg)
-![22](22.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/17.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/18.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/19.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/21.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/22.jpg)
 
 We sat swinging on some swings with the brief moments of sun shining on our
 faces. Each pump of my legs bringing me one inch closer t the sun, if you
@@ -94,15 +94,15 @@ shadowed by rainclouds. It felt like swinging between two worlds, one old one
 new, one bright one dark.. It was an interesting experience and my first time
 being near the Berlin Wall.
 
-![23](23.jpg)
-![24](24.jpg)
-![25](25.jpg)
-![26](26.jpg)
-![27](27.jpg)
-![28](28.jpg)
-![29](29.jpg)
-![30](30.jpg)
-![31](31.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/23.jpg)
+![24](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/24.jpg)
+![25](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/25.jpg)
+![26](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/26.jpg)
+![27](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/27.jpg)
+![28](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/28.jpg)
+![29](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/29.jpg)
+![30](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/30.jpg)
+![31](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/31.jpg)
 
 After sadly leaving behind our swings, ukulele in hand, we wandered out of the
 park and down the street to a Tea Bar that is known for its Matcha Green Tea
@@ -110,9 +110,9 @@ where we sat on a balcony above the shop on little Japanese style seating mats
 overlooking a courtyard full of armchairs. It was a magical little shop and I
 really enjoyed sitting there watching people come and go.
 
-![32](32.jpg)
-![33](33.jpg)
-![34](34.jpg)
+![32](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/32.jpg)
+![33](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/33.jpg)
+![34](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140516_berlin/34.jpg)
 
 After leaving the shop we returned back to the apartment for a quick break and
 then went to a nearby coffee shop to do some work. I really love all the cafes

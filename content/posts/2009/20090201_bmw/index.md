@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090201_bmw/01.jpg"
 +++
 
 The Acura has been a great car, but I'm ready for something a bit more sporty.

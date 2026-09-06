@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "05.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/05.jpg"
 +++
 
 With the sun rising over the mountains on one side and the open horizon on the
@@ -35,9 +35,9 @@ enough on my wimpy sea level conditioned lungs). The colors were spectacular
 and the river that followed along the road after the summit was wondrously
 beautiful.
 
-![01](01.jpg)
-![02](02.jpg)
-![03](03.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/03.jpg)
 
 I took about a two hour detour to visit a National Park that I made the mistake
 of skipping once many years ago and refused to make the same mistake twice.
@@ -47,16 +47,16 @@ out of my way. So Mama the Llama and I settled in for a long drive and went to
 check out the park that lays claim to the highest sand dunes in North
 America.
 
-![04](04.jpg)
-![05](05.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/05.jpg)
 
 Before we hit the dunes though, we went and explored a small side trail that
 wove uphill through colorful aspens and alongside a fast moving creek. It was
 quite a nice spot even though it had nothing to do with the sand dunes that
 give the park its name.
 
-![06](06.jpg)
-![07](07.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/07.jpg)
 
 I hiked out from the main parking lot across trickling remants of a river and a
 wide expanse of flat sand to reach the base of the dunes. I must have been
@@ -72,7 +72,7 @@ deeply enjoyed going to desert parks. Death Valley is one of my all time
 favorite National Parks and here again, I found myself loving the desert sands
 of this entirely new national park.
 
-![08](08.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/08.jpg)
 
 I hiked to a vantage point on a ridge of one particularly long sand dune and
 sat down to eat my lunch. This didn’t go as perfectly as I had imagined it as
@@ -85,14 +85,14 @@ always have to bury my feet in the sand when I watch the world move beneath my
 feet because when they are buried you can feel your own pulse in your feet,
 but it feels like the heartbeat of the Earth beating in tune with your own.
 
-![09](09.jpg)
-![10](10.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/10.jpg)
 
 Mama had a bit of a hard time at the park and actually took quite a tumble down
 a sand dune because the wind was so incredibly strong that she couldn’t stay
 grounded even with her feet entirely buried in the sand. 
 
-![11](11.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/11.jpg)
 
 Covered in sand, we both returned down the dunes as the wind whirled around in
 pirouettes. On the way down some very nice women actually let me borrow a sled
@@ -102,7 +102,7 @@ feel alive. I waved my goodbye to the friendly group of women and Mama, PriPri
 and I left the Great Sand Dunes National Park receding in the rearview
 mirror. 
 
-![12](12.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/12.jpg)
 
 The rest of the drive was a confusing mixture of flat nothing and bounding
 mountain passes covered in colorful trees . There was such an amazing array of
@@ -110,43 +110,43 @@ autumn colors that I kept stopping all the time to take pictures because I was
 so awe-struck after rounding every corner by the new landscape that lay before
 me.
 
-![13](13.jpg)
-![14](14.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/14.jpg)
 
 I even did some off roading down a National Forest side road that provided some
 amazing aspen forest views. 
 
-![15](15.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/15.jpg)
 
 No matter where I went, it was breathtakingly beautiful. I have never in my
 life seen sights like these and I cannot believe I am lucky enough to be able
 to take my time driving through all of it so I can soak it all in on my own
 time and at my own pace. 
 
-![16](16.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/16.jpg)
 
 The most beautiful array of fall colors was at an overlook by Kenosha Pass. The
 entire mountainside was covered in a kaleidoscope of colors, like a chameleon
 caught between hues, the trees were somewhere between deep orange reds and
 fleeting green that could be completely gone tomorrow.
 
-![17](17.jpg)
-![18](18.jpg)
-![19](19.jpg)
-![20](20.jpg)
-![21](21.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/17.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/18.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/19.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/21.jpg)
 
 After the astonishing natural beauty of this day of driving, I also have to
 throw in some kitschy weird things too; namely, a weird Coney Island hot dog
 stand that is shaped like a giant hot dog. Yeah, there are some pretty random
 and strange things to see out on the open road…
 
-![22](22.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/22.jpg)
 
 Finally I cleared all of the mountains and descended into Denver. I didn’t stop
 in Denver proper, but I did take a quick trip to the Red Rock Amphitheater.
 
-![23](23.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/23.jpg)
 
 After many a stop light and countless rush hour traffic jams, I made it to my
 hostel in Boulder where I am currently crashing and burning because I am so
@@ -155,7 +155,7 @@ people they are, but I already like the hostel complex, which comes complete
 with a slack line yard that I am dying to try out and a wonderful river
 running directly through the complex. I can’t wait to see it in day light.
 
-![24](24.jpg)
+![24](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150924_rivers/24.jpg)
 
 Most importantly (at least to me), I did it. I made it. I completed my first
 solo day with no great tragedies, no misadventures, scary happenings. I was

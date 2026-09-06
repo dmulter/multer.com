@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['poetry']
 
 [cover]
-image = "frozen-trees.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2018/20180107_elysium_red/frozen-trees.jpg"
 +++
 
 Virgin snow collapses under a heavy foot  
@@ -102,4 +102,4 @@ For a moment longer than Eternity.
 Instead, the silence of winter surrounds him once more  
 And the Elysium he glimpsed returns to the realm of myth.
 
-![snowy fox](snowy-fox.jpg)
+![snowy fox](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2018/20180107_elysium_red/snowy-fox.jpg)

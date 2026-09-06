@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2012/20120308_ritte/01.jpg"
 +++
 
 Gabe has waited patiently for his Castelli team kit for so long its almost

@@ -6,10 +6,10 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090929_bootjack/01.jpg"
 +++
 
 Sunsets like this just make me wish I was up in Bootjack with Charlotte.
 
-![02](02.jpg)
-![03](03.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090929_bootjack/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090929_bootjack/03.jpg)

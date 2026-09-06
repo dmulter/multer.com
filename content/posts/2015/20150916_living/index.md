@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150916_living/01.jpg"
 +++
 
 One reason I have decided to resurrect my blog is to document my cross country
@@ -133,4 +133,4 @@ unfriendly strangers, through all the beautiful sights I will see and the
 empty expanses of nothing, I have chosen this path and now I must follow it to
 its end.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150916_living/02.jpg)

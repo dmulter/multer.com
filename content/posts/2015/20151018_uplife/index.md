@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/01.jpg"
 +++
 
 Even though I have a home once more, I have found myself taking to the road.
@@ -25,7 +25,7 @@ everything I once called home. Now it is over a month since I left the sunny
 west coast behind me and I have been living in the Northernmost tip of
 Michigan where the sky meets water and the land ends.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/02.jpg)
 
 This place is not unfamiliar to me though, it is not a strange, exotic and
 unknown location; this is my home away from home. However, I have never seen
@@ -33,7 +33,7 @@ it quite like this before. The closest city to me is Houghton, a drawbridge
 city with cobblestone streets and old brick buildings lining the downtown
 stretch of road. But every morning this is the view I wake up to.
 
-![03](03.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/03.jpg)
 
 So many things are different now, things I have never seen before because I
 only ever visited in the summer time. I feel like my world has been turned
@@ -53,7 +53,7 @@ There are endless things that entirely transform this place I have visited
 almost every single year since I was born. I feel like I have found myself on
 the other end of the looking glass and everything is slightly distorted.
 
-![04](04.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/04.jpg)
 
 There are two not so subtle changes that have really transformed this once
 familiar place into a mysterious and new experience. The first of which is
@@ -61,7 +61,7 @@ obvious, it is Fall. I have never seen the once verdant ubiquitous green burst
 apart into such an array of beautiful colors. It makes me look at everything
 with new awe struck eyes.
 
-![05](05.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/05.jpg)
 
 The land around me has become its own sea of colors. Amber, wine, violet,
 peach, rose, and so many other colors have transformed every tree into a color
@@ -77,7 +77,7 @@ grandfather, one year after his passing, is thick in the air everywhere I turn
 up here. It is not necessarily a bad or sad feeling, just a very persistent
 one. Memories are the greatest ghosts we could ever conjure.
 
-![06](06.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/06.jpg)
 
 I dreamt for years about coming up to Northern Michigan to see the peak of fall
 colors, but I never dreamt that it would be without my grandfather. I always
@@ -89,7 +89,7 @@ year anniversary of his passing. I wish he could be here with me and I cannot
 believe, even a year later that he is actually gone. I miss my grandpa but I
 see him and feel him in the flurry of falling leaves everywhere I go.
 
-![07](07.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/07.jpg)
 
 I am staying in his home without him and every time I hear this old house creak
 I always wonder if it is him. I feel like I cannot go anywhere without bumping
@@ -113,4 +113,4 @@ moving slowly towards something, but I know not what yet. For now I sit and
 watch the world around me changing, wondering what will come when the color is
 gone.
 
-![08](08.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20151018_uplife/08.jpg)

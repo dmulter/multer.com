@@ -6,32 +6,32 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/01.jpg"
 +++
 
 It's the final track meet, and the last Gabe will ever do in Middle School.
 First it's the shot put.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
-![06](06.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/06.jpg)
 
 Then it's over to the 400m relay.
 
-![07](07.jpg)
-![08](08.jpg)
-![09](09.jpg)
-![10](10.jpg)
-![11](11.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/07.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/08.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/09.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/10.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/11.jpg)
 
 And then one last chance at the discus record. Gabe's happy with his throw, but
 the record falls to another guy on his team. Second place is a great placing.
 
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
-![15](15.jpg)
-![16](16.jpg)
-![17](17.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/14.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/15.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100514_track/17.jpg)

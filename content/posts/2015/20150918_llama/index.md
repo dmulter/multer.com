@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "02.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/02.jpg"
 +++
 
 I have officially become that weird person wandering around with a little llama
@@ -31,17 +31,17 @@ After a slow morning where our tour plans for Antelope Canyon fell through and
 a meandering look at the ever faithful Horseshoe Bend we headed out to
 Monument Valley.
 
-![01](01.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/01.jpg)
 
 We took off from the straightforward route and fit in some adventuring time to
 visit this tribal park. Sitting right on the border between Utah and Arizona,
 this collection of monolithic rock formations of fiery red stone and sunset
 oranges always is a treat to stop for on a road trip.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/05.jpg)
 
 At Monument Valley we took a picnic break and then I made an ill-informed
 decision to try to drive just a short bit of the dirt road loop around the
@@ -52,8 +52,8 @@ which I really thought my car wasn’t going to make it. I survived and so did
 PriPri, although the car was definitely covered in red dust for quite some
 time afterwards.
 
-![06](06.jpg)
-![07](07.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150918_llama/07.jpg)
 
 From Monument Valley we continued on a smaller road to cut over to Colorado
 above four corners where we encountered some really beautiful rock bluffs that

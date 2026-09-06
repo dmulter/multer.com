@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/01.jpg"
 +++
 
 The novelty of a double-decker bus as a regular form of transportation in
@@ -24,7 +24,7 @@ I possibly could. I even purposely took a longer route that would wind its way
 all the way through Westminster into the City of London so I could see
 everything from my royal seat atop the mighty double decker bus.
 
-![02](02.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/02.jpg)
 
 I went into the City of London, now the financial district to meet Emily, my
 father’s cousin who, along with her husband where kind enough to house me
@@ -36,13 +36,13 @@ Wandering with my face up turned looking at the hanging flags, colorful
 banners, and glass ceilings stretching like long arms of a cross above the
 hallways of the market.
 
-![03](03.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/03.jpg)
 
 Shops to shoe shiners, it was a great little place filled with all sorts of
 business types making it a fun place to see and I thoroughly enjoyed it.
 
-![04](04.jpg)
-![05](05.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/05.jpg)
 
 I walked from LeadenHall Market to Spitalfields near where Emily works but on
 the way took a quick peek at a beautiful train station, the Liverpool Street
@@ -51,20 +51,20 @@ train station as well as being surrounded by some of the most iconic modern
 architecture there is in London. Hidden amongst glass faced skyscrapers, it
 was an interesting juxtaposition.
 
-![06](06.jpg)
-![07](07.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/06.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/07.jpg)
 
 After lunch Emily showed me around the Old Spitalfields Market area that was
 really interesting and full of people selling all sorts of knick knacks.
 
-![08](08.jpg)
+![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/08.jpg)
 
 Leaving Spitalfields and Emily to return to her lovely place of work I wandered
 around and decided to return to St. Paul’s Cathedral and from there go to the
 South Bank and wander along the river. I made sure to enjoy every street that
 I wandered down on my way to St. Paul’s.
 
-![09](09.jpg)
+![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/09.jpg)
 
 It was interesting to lay in a nice little field below St. Paul’s and look up
 at its large dome, thinking of St. Peter’s in Rome, remembering how just a few
@@ -89,8 +89,8 @@ to whisk you away because you know how important this place is to you now,
 knowing that if you don’t fight to stay, you will never know what it was to
 fight for a place you love.
 
-![10](10.jpg)
-![11](11.jpg)
+![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/10.jpg)
+![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/11.jpg)
 
 After letting that realization sink into my heart, I continued on, letting the
 current of all things new whisk me away from St. Paul’s and the memories of
@@ -99,16 +99,16 @@ The dome of St. Paul’s present, but diminishing in the distance as I walked
 farther and farther out over the bridge surrounded by the metal wings of its
 structure above the Thames River, cloudy and dark below.
 
-![12](12.jpg)
-![13](13.jpg)
-![14](14.jpg)
+![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/12.jpg)
+![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/13.jpg)
+![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/14.jpg)
 
 Continually looking back over my shoulder to take in the view of London as I
 traveled closer and closer to the South Bank, taking the occasional look out
 over the river to the surrounding structures, I stood between the two sides of
 a magnificent city.
 
-![15](15.jpg)
+![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/15.jpg)
 
 On the other side the entire vibe changed, there were musicians playing by the
 riverside, young people lounging, tanning on green fields below towering
@@ -117,9 +117,9 @@ maids outfit (and not looking particularly happy about it) serving tea on
 little carts, a trumpet player who teamed up with a Charlie Chaplain look a
 like, and some break dancers.
 
-![16](16.jpg)
-![17](17.jpg)
-![18](18.jpg)
+![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/16.jpg)
+![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/17.jpg)
+![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/18.jpg)
 
 I really loved the South Bank of London and walking along it back towards
 Westminster, I walked the entire Queen’s Walk, a nice pathway along the river
@@ -128,7 +128,7 @@ skatepark. It was a place so full of relaxed joy and happy activity taking
 place all around me, it was hard not to walk along the path smiling ear to
 ear.
 
-![19](19.jpg)
+![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/19.jpg)
 
 Past old boats anchored for eternity, clock towers leaning over wharves, and
 many a person reading scenically (which I deeply enjoyed and eventually took
@@ -138,24 +138,24 @@ sign reading a red book that she had just begun and the man all in white,
 leaning casually on the banister with all of the City of London in the
 background.
 
-![20](20.jpg)
-![21](21.jpg)
+![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/20.jpg)
+![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/21.jpg)
 
 It was a warm beautiful day which made everything even nicer and more pleasant.
 I wandered into a side courtyard full of adorable shops and restaurants that
 made me want to stop in every single one and buy something, but instead I
 settled with some pictures.
 
-![22](22.jpg)
-![23](23.jpg)
+![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/22.jpg)
+![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/23.jpg)
 
 After the food stalls and cute restaurants I found the skate park and a little
 book market where I bought the tiniest copy of Milton I have ever seen, maybe
 3 inches tall because when is it more appropriate to buy a book of Milton’s
 works than in England… especially when it is tiny.
 
-![24](24.jpg)
-![25](25.jpg)
+![24](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/24.jpg)
+![25](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/25.jpg)
 
 Finally rounding the corner into Jubilee Park I began to see the super iconic
 images of London, but this time from the other side. The London Eye, Big Ben,
@@ -165,22 +165,22 @@ There was even some sort of carnival going on in Jubilee Park that seemed fun
 but was packed with people so I moved on quietly, enjoying the peace of the
 river for the clutter of the festival.
 
-![26](26.jpg)
-![27](27.jpg)
+![26](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/26.jpg)
+![27](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/27.jpg)
 
 I crossed the river again over Westminster Bridge back to the territory I had
 tread the previous day, but not after first taking my fair share of pictures.
 
-![28](28.jpg)
-![29](29.jpg)
+![28](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/28.jpg)
+![29](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/29.jpg)
 
 I made sure to go back and take a few more pictures of Westminster Abbey as the
 sun started to descend casting the sky in a deep shade of blue.
 
-![30](30.jpg)
-![31](31.jpg)
-![32](32.jpg)
-![33](33.jpg)
+![30](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/30.jpg)
+![31](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/31.jpg)
+![32](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/32.jpg)
+![33](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/33.jpg)
 
 I concluded my day with another scenic bus ride to a tiny little alley way with
 an adjoining courtyard that I had heard about called Neal’s Yard. Seeing
@@ -189,7 +189,7 @@ didn’t know its exact location and didn’t have an iphone to look it up on, s
 after wandering down as many alleyways I could find, I finally found it and
 was not disappointed.
 
-![34](34.jpg)
+![34](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/34.jpg)
 
 It was really quite small but full of so much color and life that it was
 totally worth it. filled with adorable little restaurants and people sitting
@@ -197,9 +197,9 @@ under the japanese maple trees drinking wine, smoking, and laughing together.
 The people there seemed just as colorful and full of life as the walls
 reaching upward around them.
 
-![35](35.jpg)
-![36](36.jpg)
-![37](37.jpg)
+![35](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/35.jpg)
+![36](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/36.jpg)
+![37](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/37.jpg)
 
 Soaking in the color in the fading light as I had soaked up the sun during my
 wonderful wanderings on the Queen’s Walk I concluded my second day in London
@@ -208,4 +208,4 @@ another tiring day on my sore feet. But the soreness meant nothing knowing
 that my feet had tread on stones previously unturned in places all over Europe
 that I had always hoped to visit.
 
-![38](38.jpg)
+![38](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2014/20140625_queen/38.jpg)

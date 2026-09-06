@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['poetry']
 
 [cover]
-image = "bumble-bee.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2018/20180113_hive_mind/bumble-bee.jpg"
 +++
 
 The bees have infested my brain again  

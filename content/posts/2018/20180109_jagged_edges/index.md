@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['poetry']
 
 [cover]
-image = "frozen-tree.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2018/20180109_jagged_edges/frozen-tree.jpg"
 +++
 
 The jagged edges of me  

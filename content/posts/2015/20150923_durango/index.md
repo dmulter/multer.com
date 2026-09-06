@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "04.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150923_durango/04.jpg"
 +++
 
 It has been a long final day here in Durango that started out horribly and got
@@ -21,16 +21,16 @@ sleep in) only to wake up a short time later to try to start the day.
 After recovering somewhat and rehydrating I decided that the best remedy was a
 calm walk along the Animas River and some fresh air.
 
-![01](01.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150923_durango/01.jpg)
 
 My dad and I meandered along the river next to the railroad tracks for quite
 some time savoring the thin crisp Colorado air that he would be leaving later
 in the day.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
-![05](05.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150923_durango/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150923_durango/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150923_durango/04.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150923_durango/05.jpg)
 
 Clouds hung in the distance looming with thunder held close to its chest, ready
 to out pour rain on the mountains of Durango. The ominous clouds began to

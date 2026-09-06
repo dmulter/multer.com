@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "04.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/04.jpg"
 +++
 
 I am already over 800 miles away from home. Today was my first full day of
@@ -31,8 +31,8 @@ much I need the people who mean the most in my life even when they aren’t
 physically with me. So I will be photographing Mama the Llama everywhere I
 go.
 
-![01](01.jpg)
-![02](02.jpg)
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/01.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/02.jpg)
 
 The real highlights of the day (aside from my last In N’ Out Burger for the
 foreseeable future in Las Vegas) were in the area around Zion National Park in
@@ -46,20 +46,20 @@ After weaving our way through the canyons of layered red stone we arrived
 outside of Zion at Springdale where we took a much needed ice cream break. Joy
 really was the only way to describe my state of mind.
 
-![03](03.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/03.jpg)
 
 Zion is really a beautiful place and I love visiting it, even if we only get to
 drive through it.
 
-![04](04.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/04.jpg)
 
 On the far side of the park we did get a treat, a herd of bighorn sheep grazing
 on the sparse shrubbery dotting the multicolored hillsides. It was a great
 opportunity to put my wildlife photography boots back on and start practicing
 my photography again.
 
-![05](05.jpg)
-![06](06.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/05.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/06.jpg)
 
 He was a great model and was stunningly beautiful to watch. The texture of his
 horns and the color of his amber eyes were captivating. I had not realized
@@ -67,7 +67,7 @@ until the moment that I was frantically running down the road in a dress with
 my camera equipment in one hand and my car keys in the other how much I missed
 the thrill of pursuing wildlife in its natural habitat.
 
-![07](07.jpg)
+![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150917_800miles/07.jpg)
 
 Now I sit in Page Arizona, mere miles away from Horseshoe Bend and Antelope
 Canyon and just yards from the Glen Canyon Dam on Lake Powell. It is a lovely

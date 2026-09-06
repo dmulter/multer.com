@@ -6,7 +6,7 @@ authors = ['Monica Multer']
 tags = ['story']
 
 [cover]
-image = "01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150928_kansas/01.jpg"
 +++
 
 Literally. Yesterday I drove all the way across the width of Kansas from
@@ -39,9 +39,9 @@ But the journey, though long, went quickly with a few fun stops like the Kansas
 welcome center, the World’s Largest Easel, and the historic landmark of Brown
 vs Board.
 
-![02](02.jpg)
-![03](03.jpg)
-![04](04.jpg)
+![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150928_kansas/02.jpg)
+![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150928_kansas/03.jpg)
+![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150928_kansas/04.jpg)
 
 But mostly it was just me and wide empty expanses of road heading off into the
 flat horizon and my own thoughts. I had thought a lot about how this day would
@@ -52,7 +52,7 @@ crash and burn. I will jump past the long anxious hours of ruminating about
 whether I could do it and tell you that I did. I made it in one piece and
 feeling fine.
 
-![05](05.jpg)
+![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150928_kansas/05.jpg)
 
 This might not seem like a big deal to most people but this was a huge deal for
 me. Time for some honest talk. For those of you who don’t know me and even for
@@ -103,4 +103,4 @@ of what I have seen and imaginings of what tomorrow will bring, but all of it
 boils down to the road, the pavement beneath my tires and the miles speeding
 past my eyes. I am right where I need to be.
 
-![06](06.jpg)
+![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2015/20150928_kansas/06.jpg)
