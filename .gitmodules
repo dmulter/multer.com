@@ -1,6 +1,3 @@
-[submodule "themes/neso"]
-	path = themes/neso
-	url = https://github.com/babeneso/hugo-neso
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/gohugo-ananke/ananke
