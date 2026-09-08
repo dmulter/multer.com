@@ -13,7 +13,7 @@ A few things when working with the site:
   Eventually I'll configure the site to override the existing multer.com
   site.
 - You can run the site locally using the `run.sh` script.
-- I use the ImageMagik to convert all JPG images before commiting to the repo.
+- I use ImageMagik to convert all JPG images before commiting to the repo.
 `magick mogrify -path XXX -resize 1200x -strip -quality 80 XXX`
 - Some stories use WEBP images.
 - All images are stored in a public AWS S3 bucket.
@@ -21,7 +21,7 @@ A few things when working with the site:
   in this repo.
 - I use the `ignoreFiles` configuration to avoid processing of stories I'm in
   the middle if importing from the old site.
-- Use `update.sh` to update submodules, which currently consist of the PaperMod
-  theme only.
+- Use `update.sh` to update Git submodules, which currently consist of the
+  PaperMod theme only. Note that if you do an update, be sure to review and update the code for the custom shortcodes and partials in `/layouts`.
 - Note that `build.sh` and `deploy.sh` are unused. They were used for direct to
   AWS S3 deploys that I might use in the future.
