@@ -1,3 +1,4 @@
++++
 date = '2011-01-09'
 title = 'Gabe at the Early Bird Criterium'
 author = 'David Multer'
