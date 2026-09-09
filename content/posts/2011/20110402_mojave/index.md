@@ -6,7 +6,7 @@ authors = ['David Multer']
 tags = ['story']
 
 [cover]
-image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110402_mojave/01.jpg"
+image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110402_mojave/13.jpg"
 +++
 
 Monica and Gabe have a week off from school, so we're heading south in search
@@ -14,6 +14,7 @@ of dry, warm weather for hiking and cycling. First stop is the mighty [Mojave]
 (http://www.nps.gov/moja/). Last time we came through here was two years ago
 in an RV for one night, and some hiking in the dunes the next day.
 
+![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110402_mojave/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110402_mojave/02.jpg)
 
 It's been a long drive, so Gabe and I get changed and ready to roll.
