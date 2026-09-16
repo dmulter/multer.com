@@ -9,8 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100516_judo/01.jpg"
 +++
 
-I'm headed over to San Jose today for an awesome Judo clinic at [Silicon Valley
-Judo](https://www.svjudo.com). Japanese champion Shintaro Nakano is explaining
+I'm headed over to San Jose today for an awesome Judo clinic at
+[Silicon Valley Judo](https://www.svjudo.com). Japanese champion Shintaro Nakano is explaining
 his outstanding Seoi Nage technique to a big group of eager Judoka, including
 myself. Unfortunately Peel hurt himself and couldn't participate, but my
 Sensei from Aptos Judo is my very capable partner.

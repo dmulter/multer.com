@@ -9,9 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091002_granfondo/33.jpg"
 +++
 
-Charlotte and I are headed up to Santa Rosa to do [Levi's Gran Fondo]
-(https://www.levisgranfondo.com) ride tomorrow. First we need to get through
-San Francisco.
+Charlotte and I are headed up to Santa Rosa to do [Levi's Gran Fondo](https://www.levisgranfondo.com) ride
+tomorrow. First we need to get through San Francisco.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091002_granfondo/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091002_granfondo/02.jpg)

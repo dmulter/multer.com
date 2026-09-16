@@ -39,11 +39,10 @@ Our next stop is [Mono Lake](https://www.monolake.org).
 ![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100831_postpile/20.jpg)
 ![21](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100831_postpile/21.jpg)
 
-And then it's up and over Tioga Pass into [Yosemite]
-(https://www.nps.gov/yose/) via Tuolumne Meadows. I've really wanted to do
-some backpacking out this way, but permits are always so tough to come by. One
-of these days I'm thinking I'll have to do the Pacific Crest Trail from here
-down to Whitney. One of these days.
+And then it's up and over Tioga Pass into [Yosemite](https://www.nps.gov/yose/) via Tuolumne Meadows.
+I've really wanted to do some backpacking out this way, but permits are always
+so tough to come by. One of these days I'm thinking I'll have to do the
+Pacific Crest Trail from here down to Whitney. One of these days.
 
 ![22](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100831_postpile/22.jpg)
 ![23](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100831_postpile/23.jpg)

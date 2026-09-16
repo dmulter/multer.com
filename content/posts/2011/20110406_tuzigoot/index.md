@@ -15,9 +15,8 @@ we saw how narrow and busy the road was, and it didn't help that it was
 starting to rain as well. We had to make do with some huge views and a very
 nice lunch in busy downtown Jerome.
 
-Then it's a nice stop at [Tuzigoot National Monument]
-(https://www.nps.gov/tuzi/) to burn off some of that no-ride energy. Gabe is
-quite the goofball.
+Then it's a nice stop at [Tuzigoot National Monument](https://www.nps.gov/tuzi/) to burn off some
+of that no-ride energy. Gabe is quite the goofball.
 
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110406_tuzigoot/02.jpg)
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110406_tuzigoot/03.jpg)

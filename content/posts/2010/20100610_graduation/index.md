@@ -9,11 +9,11 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100610_graduation/01.jpg"
 +++
 
-Gabe has been very excited about moving on from [Middle School]
-(https://svms.scottsvalleyusd.org) to High School for some time now, and today
-is that day. He's looking so fine in his new business attire, and I think he
-even likes the tie. His friends Joe and Connor take their turn up at the
-podium, while Monica the photographer works the crowd.
+Gabe has been very excited about moving on from [Middle School](https://svms.scottsvalleyusd.org)
+to High School for some time now, and today is that day. He's looking so fine
+in his new business attire, and I think he even likes the tie. His friends Joe
+and Connor take their turn up at the podium, while Monica the photographer
+works the crowd.
 
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100610_graduation/02.jpg)
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100610_graduation/03.jpg)

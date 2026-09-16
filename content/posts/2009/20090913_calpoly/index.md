@@ -9,8 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090913_calpoly/11.jpg"
 +++
 
-This weekend we're moving Nick into his apartment and new life at [Cal Poly]
-(https://www.calpoly.edu). It's still hard to believe that this day has
+This weekend we're moving Nick into his apartment and new life at
+[Cal Poly](https://www.calpoly.edu). It's still hard to believe that this day has
 actually arrived, but I'm excited for Nick to start this stage of his life. I
 have to say I never had a view like this from my freshman college dorms.
 Pretty sweet.

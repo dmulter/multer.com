@@ -50,4 +50,5 @@ a couple of pictures.
 
 ![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110301_yellowstone/10.jpg)
 
-Tomorrow is a new day and with that we hope, as always, to find and photograph wolves.
+Tomorrow is a new day and with that we hope, as always, to find and photograph
+wolves.

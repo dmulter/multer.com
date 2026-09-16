@@ -10,8 +10,8 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/200901
 +++
 
 Charlotte and I are headed south this morning to put in a big hike down in Big
-Sur. Our initial destination is Bottchers Gap trailhead in[Los Padres National
-Forest](https://www.fs.usda.gov/r05/lospadres) and the Ventana Wilderness with
+Sur. Our initial destination is Bottchers Gap trailhead in
+[Los Padres National Forest](https://www.fs.usda.gov/r05/lospadres) and the Ventana Wilderness with
 a hike out to Mt. Carmel. It's an incredible, warm, sunny day and we're really
 looking forward to the views. Unfortunately we discover the entire area is
 closed due to the big fire this past summer. We get a nice view of the burn,
@@ -32,12 +32,11 @@ trip inland. This sure brings back the memories from my SLO ride last spring.
 ![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090118_garrapata/09.jpg)
 ![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090118_garrapata/10.jpg)
 
-We head back to a trailhead we spotted in [Garrapata State Park]
-(https://www.parks.ca.gov/?page_id=579). The hills looked beautiful from the
-road, so it's time to pack up and head out. The hike starts out easy as we
-wind our way along the creek. It quickly turns upward very steeply as we head
-for the summit. We've got plenty of company as everyone sweats heavily with
-the effort.
+We head back to a trailhead we spotted in [Garrapata State Park](https://www.parks.ca.gov/?page_id=579).
+The hills looked beautiful from the road, so it's time to pack up and head out.
+The hike starts out easy as we wind our way along the creek. It quickly turns
+upward very steeply as we head for the summit. We've got plenty of company as
+everyone sweats heavily with the effort.
 
 ![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090118_garrapata/11.jpg)
 ![12](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090118_garrapata/12.jpg)

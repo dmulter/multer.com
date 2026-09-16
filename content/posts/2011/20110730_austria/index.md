@@ -60,4 +60,12 @@ the ones you love that have gone their separate ways.
 
 ![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110730_austria/09.jpg)
 
-Our stop in Austria was very brief but very interesting. We had stopped to have lunch with the family I am traveling with’s son who is doing an internship there. We ate at a nice little place where I got very typical German/Austrian food. I got goulash with some dumplings which is basically the only kind of food that they eat; meat and potatoes. That and cake. 🙂 It was extremely good and flavorful and after just one dumpling I felt ridiculously full. It was a good Austrian experience and I was glad for the stop. However it was just a brief reprieve from our little road trip down to Italy and within that, VENICE!
+Our stop in Austria was very brief but very interesting. We had stopped to have
+lunch with the family I am traveling with’s son who is doing an internship
+there. We ate at a nice little place where I got very typical German/Austrian
+food. I got goulash with some dumplings which is basically the only kind of
+food that they eat; meat and potatoes. That and cake. 🙂 It was extremely good
+and flavorful and after just one dumpling I felt ridiculously full. It was a
+good Austrian experience and I was glad for the stop. However it was just a
+brief reprieve from our little road trip down to Italy and within that,
+VENICE!

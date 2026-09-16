@@ -9,11 +9,10 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090823_chicago/16.jpg"
 +++
 
-I'm in Chicago for a couple of days for the [Agile Alliance]
-(https://agilealliance.org) Agile2009 conference. It's also a great excuse to
-hook up with my brother as he lives pretty close to downtown. We spent a bunch
-of time wandering around Millennium Park enjoying the sculptures, fountains,
-and other sights.
+I'm in Chicago for a couple of days for the [Agile Alliance](https://agilealliance.org)
+Agile2009 conference. It's also a great excuse to hook up with my brother as he
+lives pretty close to downtown. We spent a bunch of time wandering around
+Millennium Park enjoying the sculptures, fountains, and other sights.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090823_chicago/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090823_chicago/02.jpg)

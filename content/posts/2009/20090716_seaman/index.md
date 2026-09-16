@@ -10,10 +10,9 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/200907
 +++
 
 Today we're heading into Houghton with the whole crew to check out the very
-cool rocks and minerals at the [Seaman Mineral Museum]
-(https://museum.mtu.edu) at Michigan Tech (MTU). I like their funny
-shoplifting sign in the gift shop. I suspect lots of little kids are very
-tempted.
+cool rocks and minerals at the [Seaman Mineral Museum](https://museum.mtu.edu) at
+Michigan Tech (MTU). I like their funny shoplifting sign in the gift shop. I
+suspect lots of little kids are very tempted.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090716_seaman/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090716_seaman/02.jpg)

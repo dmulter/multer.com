@@ -33,10 +33,9 @@ Karen. This place has plenty of old, cool buildings.
 ![13](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090714_calumet/13.jpg)
 ![14](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090714_calumet/14.jpg)
 
-A favorite place of ours has to be [Copper World]
-(https://www.calumetcopper.com). What's not to like, they've got copper, cool
-hats, cool signs, funny finger puppets, fudge, licorice pipes, and did I
-mention copper?
+A favorite place of ours has to be [Copper World](https://www.calumetcopper.com). What's not to like,
+they've got copper, cool hats, cool signs, funny finger puppets, fudge,
+licorice pipes, and did I mention copper?
 
 ![15](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090714_calumet/15.jpg)
 ![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090714_calumet/16.jpg)

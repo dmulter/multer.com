@@ -19,9 +19,8 @@ I'm starting to get pretty good at this RV thing.
 
 We originally wanted to head for the Grand Canyon, Bryce, and Zion, but we've
 heard it's still freezing out there, and the miles are really going to be just
-way too much. Our new plan is to head south for [Mojave]
-(https://www.nps.gov/moja/). We make a nice stop at the Kelso Depot visitor
-center moments before it closes.
+way too much. Our new plan is to head south for [Mojave](https://www.nps.gov/moja/).
+We make a nice stop at the Kelso Depot visitor center moments before it closes.
 
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090406_mojave/03.jpg)
 ![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090406_mojave/04.jpg)

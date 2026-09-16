@@ -9,12 +9,12 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090614_lick/10.jpg"
 +++
 
-I've always wanted to head up to [Lick Observatory]
-(https://www.lickobservatory.org) on top of Mt. Hamilton, so when I got an
-email from the [RPI](https://www.rpi.edu) alumni group about a private tour, I
-signed Charlotte, Monica, and I up right away. It's an incredibly long and
-windy road to the summit at 4,209 feet. I've always wanted to ride my bike to
-the top, but now I'm not so sure.
+I've always wanted to head up to [Lick Observatory](https://www.lickobservatory.org)
+on top of Mt. Hamilton, so when I got an email from the [RPI](https://www.rpi.edu)
+alumni group about a private tour, I signed Charlotte,
+Monica, and I up right away. It's an incredibly long and windy road to the
+summit at 4,209 feet. I've always wanted to ride my bike to the top, but now
+I'm not so sure.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090614_lick/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090614_lick/02.jpg)

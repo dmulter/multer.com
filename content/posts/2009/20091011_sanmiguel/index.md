@@ -10,8 +10,8 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/200910
 +++
 
 We're heading home after visiting Nick for his birthday, so it seems like a
-perfect opportunity to visit an important landmark along the way. [Mission San
-Miguel](https://oldmissionsanmiguel.org) here we come. The old walls, doors,
+perfect opportunity to visit an important landmark along the way.
+[Mission San Miguel](https://oldmissionsanmiguel.org) here we come. The old walls, doors,
 and walkways welcome us in.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091011_sanmiguel/01.jpg)

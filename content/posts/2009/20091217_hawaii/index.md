@@ -21,9 +21,8 @@ like the Big Island.
 ![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091217_hawaii/05.jpg)
 ![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091217_hawaii/06.jpg)
 
-Paradise has been waiting for us here at the [Mauna Lani]
-(https://auberge.com/mauna-lani/) hotel. Birds, flowers, and a lovely fruit
-place are waiting as well.
+Paradise has been waiting for us here at the [Mauna Lani](https://auberge.com/mauna-lani/) hotel.
+Birds, flowers, and a lovely fruit place are waiting as well.
 
 ![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091217_hawaii/07.jpg)
 ![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091217_hawaii/08.jpg)

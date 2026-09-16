@@ -19,8 +19,8 @@ Meanwhile Charlotte and Monica get to enjoy the ostriches just outside of town.
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111226_solvang/03.jpg)
 ![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111226_solvang/04.jpg)
 
-And then it's over to the [Old Mission Santa Ines]
-(https://www.missionsantaines.org) for some artsy photography care of Monica.
+And then it's over to the [Old Mission Santa Ines](https://www.missionsantaines.org) for some artsy
+photography care of Monica.
 
 ![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111226_solvang/05.jpg)
 ![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111226_solvang/06.jpg)
@@ -74,11 +74,9 @@ classic [Mt Figueroa](https://app.strava.com/activities/2924355).
 
 We head south to Santa Barbara where we drop off the girls at the train station
 to head back home. Then Gabe and I continue south to Malibu where we fall in
-love with [Latigo and Malibu Canyon]
-(https://app.strava.com/activities/2942550). Finally we head to Fresno to hook
-up with Gabe's friend Ryan Brooks for a nice [recovery ride]
-(https://app.strava.com/activities/2962545) and then a great loop of
-[Pine Flat](https://app.strava.com/activities/2986213) the next day.
+love with [Latigo and Malibu Canyon](https://app.strava.com/activities/2942550). Finally we head to Fresno to hook
+up with Gabe's friend Ryan Brooks for a nice [recovery ride](https://app.strava.com/activities/2962545) and then a
+great loop of [Pine Flat](https://app.strava.com/activities/2986213) the next day.
 
 ![41](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111226_solvang/41.jpg)
 ![42](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111226_solvang/42.jpg)

@@ -17,7 +17,9 @@ think it is because of their teeth.
 
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110315_animals/02.jpg)
 
-A face only a mother could love. Every time I look at a llama or alpaca I cringe. Yet for some reason I feel totally fascinated by them. I want to go in closer for a better look but my whole body screams **stay back, it bites!**
+A face only a mother could love. Every time I look at a llama or alpaca I
+cringe. Yet for some reason I feel totally fascinated by them. I want to go in
+closer for a better look but my whole body screams **stay back, it bites!**
 
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110315_animals/03.jpg)
 

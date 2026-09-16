@@ -55,10 +55,10 @@ getting a good deal.
 ![36](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091111_nyc/36.jpg)
 ![37](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091111_nyc/37.jpg)
 
-Matt and I head downtown to meet up at [Katz's Deli]
-(https://katzsdelicatessen.com). I've had a wicked hankering for pastrami on
-rye, a potato knish, and some cream soda. I realized after I ordered that I
-should have gotten an egg cream. Guess I'll have to come back again soon.
+Matt and I head downtown to meet up at [Katz's Deli](https://katzsdelicatessen.com). I've had a wicked
+hankering for pastrami on rye, a potato knish, and some cream soda. I realized
+after I ordered that I should have gotten an egg cream. Guess I'll have to
+come back again soon.
 
 ![38](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091111_nyc/38.jpg)
 ![39](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091111_nyc/39.jpg)

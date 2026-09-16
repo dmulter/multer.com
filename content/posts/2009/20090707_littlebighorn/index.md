@@ -24,8 +24,8 @@ a scenic drive.
 ![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090707_littlebighorn/08.jpg)
 ![09](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090707_littlebighorn/09.jpg)
 
-I hear they really enjoyed visiting [Little Big Horn Battlefield]
-(https://www.nps.gov/libi/). Lots of excellent Native American history.
+I hear they really enjoyed visiting [Little Big Horn Battlefield](https://www.nps.gov/libi/).
+Lots of excellent Native American history.
 
 ![10](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090707_littlebighorn/10.jpg)
 ![11](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090707_littlebighorn/11.jpg)

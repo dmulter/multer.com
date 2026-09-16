@@ -9,8 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090610_graduation/05.jpg"
 +++
 
-Today is a very big day for Nick as he graduates from [Scotts Valley High
-School](https://svhs.scottsvalleyusd.org) and moves on to the next big things
+Today is a very big day for Nick as he graduates from
+[Scotts Valley High School](https://svhs.scottsvalleyusd.org) and moves on to the next big things
 in his life. Grandma Phoebe is here visiting from Pennsylvania for the big
 occasion. Seems like a good excuse for some family photos.
 

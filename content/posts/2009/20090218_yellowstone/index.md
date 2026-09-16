@@ -9,13 +9,12 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090218_yellowstone/04.jpg"
 +++
 
-I'm joining Matt, Mark, and Emily on their trip to [Yellowstone]
-(https://www.nps.gov/yell/) this winter. I haven't been here since a
-backpacking trip to the Grand Tetons and Yellowstone with Charlotte many years
-ago. Charlotte visited with the kids on their last drive to Michigan, so now
-it's my turn. We flew into Bozeman and then drove down to the hotel in
-Gardiner. It's a bit gray out this morning, but I'm looking forward to my
-first day in the park.
+I'm joining Matt, Mark, and Emily on their trip to [Yellowstone](https://www.nps.gov/yell/)
+this winter. I haven't been here since a backpacking trip to the Grand Tetons
+and Yellowstone with Charlotte many years ago. Charlotte visited with the kids
+on their last drive to Michigan, so now it's my turn. We flew into Bozeman and
+then drove down to the hotel in Gardiner. It's a bit gray out this morning,
+but I'm looking forward to my first day in the park.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090218_yellowstone/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090218_yellowstone/02.jpg)

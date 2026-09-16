@@ -42,8 +42,7 @@ Then it's north along the coast past the Jam Pot to Great Sand Bay.
 ![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090729_dunehike/19.jpg)
 ![20](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090729_dunehike/20.jpg)
 
-Our destination is the [Redwyn Dunes Nature Sanctuary]
-(https://www.michigannature.org/index.cfm?fuseaction=locationgallery&action=listing&listing=199).
+Our destination is the [Redwyn Dunes Nature Sanctuary](https://www.michigannature.org/index.cfm?fuseaction=locationgallery&action=listing&listing=199).
 It's a beautiful short hike, but clearly the boys liked climbing in the trees
 the best.
 

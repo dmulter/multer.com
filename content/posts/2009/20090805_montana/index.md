@@ -17,9 +17,9 @@ interesting sculptures along the way through endless fields.
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090805_montana/03.jpg)
 ![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090805_montana/04.jpg)
 
-Looks like a visit to [Theodore Roosevelt National Park]
-(https://www.nps.gov/thro/) is in order. Gracie has her leash on, though I
-suspect Monica is actually making a statement in defiance of the rules.
+Looks like a visit to [Theodore Roosevelt National Park](https://www.nps.gov/thro/) is in order.
+Gracie has her leash on, though I suspect Monica is actually making a statement
+in defiance of the rules.
 
 ![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090805_montana/05.jpg)
 ![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090805_montana/06.jpg)

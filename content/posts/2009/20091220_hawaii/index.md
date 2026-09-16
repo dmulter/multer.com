@@ -9,8 +9,7 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091220_hawaii/15.jpg"
 +++
 
-Today we're headed over to the [Hilton Waikoloa Village]
-(https://www.hilton.com/en/hotels/koahwhh-hilton-waikoloa-village/) to check
+Today we're headed over to the [Hilton Waikoloa Village](https://www.hilton.com/en/hotels/koahwhh-hilton-waikoloa-village/) to check
 it out. The shops are a good place to stop for lunch and a visit with Santa.
 They have nicer fleet of matching bikes than back at the Mauna Lani.
 

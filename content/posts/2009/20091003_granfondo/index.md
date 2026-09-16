@@ -9,9 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091003_granfondo/04.jpg"
 +++
 
-Yesterday we drove up to Santa Rosa for [Levi's Gran Fondo]
-(https://www.levisgranfondo.com) ride. This morning it's time to head over to
-the start for the big event.
+Yesterday we drove up to Santa Rosa for [Levi's Gran Fondo](https://www.levisgranfondo.com) ride.
+This morning it's time to head over to the start for the big event.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091003_granfondo/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091003_granfondo/02.jpg)
@@ -92,8 +91,7 @@ were so many photos, it was almost impossible to find any that might include
 me, but I did happen to stumble across this one at the top of Coleman Valley
 Road. The ride down the coast was beautiful, but it was a sudden touch climb
 when we turned on Coleman. Nothing like a photo of you after working your butt
-off on a climb. The original photo is available[here]
-(https://granfondo.smugmug.com/GranFondo/2009/Lyne-Lamoureux). You can also
+off on a climb. The original photo is available [here](https://granfondo.smugmug.com/GranFondo/2009/Lyne-Lamoureux). You can also
 see me at 1:02 into [this movie](https://vimeo.com/7580409) from the ride.
 
 ![52](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20091003_granfondo/52.jpg)

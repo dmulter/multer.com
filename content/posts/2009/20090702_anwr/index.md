@@ -10,17 +10,17 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/200907
 +++
 
 After a very nice night in Wiseman recovering from our travel, it's back to
-Coldfoot to catch our flight with Dirk over at [Coyote Air]
-(https://flycoyote.com). He's got a beautiful pair of Beaver planes, along
-with a very cool pair of geese.
+Coldfoot to catch our flight with Dirk over at [Coyote Air](https://flycoyote.com).
+He's got a beautiful pair of Beaver planes, along with a very cool pair of
+geese.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090702_anwr/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090702_anwr/02.jpg)
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090702_anwr/03.jpg)
 ![04](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090702_anwr/04.jpg)
 
-It's a stunning flight north to our destination in the [Alaska National
-Wildlife Refuge](https://www.fws.gov/refuge/arctic).
+It's a stunning flight north to our destination in the
+[Alaska National Wildlife Refuge](https://www.fws.gov/refuge/arctic).
 
 ![05](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090702_anwr/05.jpg)
 ![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090702_anwr/06.jpg)

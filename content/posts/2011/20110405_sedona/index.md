@@ -33,8 +33,8 @@ Then it's over to [Walnut Canyon](https://www.nps.gov/waca/) to check out the ru
 ![16](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110405_sedona/16.jpg)
 ![17](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110405_sedona/17.jpg)
 
-And because you can never get enough ancient ruins, it's over
-    to [Wupatki National Monument](https://www.nps.gov/wupa/).
+And because you can never get enough ancient ruins, it's over to
+[Wupatki National Monument](https://www.nps.gov/wupa/).
 
 ![18](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110405_sedona/18.jpg)
 ![19](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110405_sedona/19.jpg)

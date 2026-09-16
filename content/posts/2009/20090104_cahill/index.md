@@ -9,13 +9,12 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090104_cahill/01.jpg"
 +++
 
-George invited us along for a unique hike up near his place. The[Cahill Ridge
-trail]
-(https://www.sfpuc.gov/learning/come-visit/peninsula-trails/fifield-cahill-ridge-trail)
-requires reservations and a guide to lead our group. It's a great chance to
-hike an area that's not really open for public use. It's also an opportunity
-to get to know some of George's very nice friends. We're missing a few people
-this very cold morning, but the rest of us are ready to enjoy a great day.
+George invited us along for a unique hike up near his place. The 
+[Cahill Ridge trail](https://www.sfpuc.gov/learning/come-visit/peninsula-trails/fifield-cahill-ridge-trail) requires reservations and a guide to lead our group.
+It's a great chance to hike an area that's not really open for public use. It's
+also an opportunity to get to know some of George's very nice friends. We're
+missing a few people this very cold morning, but the rest of us are ready to
+enjoy a great day.
 
 Today's hike will be out to just past the five mile marker.
 

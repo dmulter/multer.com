@@ -10,8 +10,7 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/200907
 +++
 
 Charlotte and I are headed to Bete Gris to check out a remote hiking area
-called [Bare Bluff]
-(https://michigannature.iescentral.com/index.cfm?fuseaction=locationgallery&action=listing&listing=143).
+called [Bare Bluff](https://michigannature.iescentral.com/index.cfm?fuseaction=locationgallery&action=listing&listing=143).
 This is practically the farthest point on the Keweenaw and the views are
 spectacular. Some of the hiking is quite a scramble as we scale the cliffs.
 It's nice to find a hike with some real elevation here in Northern Michigan.

@@ -9,10 +9,9 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110626_burlingame/01.jpg"
 +++
 
-Gabe is racing Elite 4 at the [Burlingame Criterium]
-(https://penvelo.org/burlingame-criterium/) today with Mack. It's the first
-big elite field criterium Gabe has signed up for, and he's been looking
-forward to it.
+Gabe is racing Elite 4 at the [Burlingame Criterium](https://penvelo.org/burlingame-criterium/)
+today with Mack. It's the first big elite field criterium Gabe has signed up
+for, and he's been looking forward to it.
 
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110626_burlingame/02.jpg)
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110626_burlingame/03.jpg)

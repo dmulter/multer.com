@@ -11,11 +11,10 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/200904
 
 We've decided to do the RV thing this Spring Break while the kids are off. I
 always wanted to try it out, and most of the family really enjoy road trips,
-so we'll see how it goes. Thanks to [El Monte RV]
-(https://www.elmonterv.com) for the rental, and for not plastering those
-embarrassing pictures all across the vehicle. Driving this beast isn't as bad
-as I thought, but we go through a number of passes covered with windmills, an
-ominous portent of things to come.
+so we'll see how it goes. Thanks to [El Monte RV](https://www.elmonterv.com) for the rental, and
+for not plastering those embarrassing pictures all across the vehicle. Driving
+this beast isn't as bad as I thought, but we go through a number of passes
+covered with windmills, an ominous portent of things to come.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090404_deathvalley/01.jpg)
 
@@ -108,9 +107,8 @@ us company anyway.
 
 ![47](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090404_deathvalley/47.jpg)
 
-We grab a camping spot in [Stovepipe Wells]
-(https://www.stovepipedeathvalley.com) and then head out for a little hiking
-before the sun goes down. Charlotte takes Nick and Monica out towards Mosaic
+We grab a camping spot in [Stovepipe Wells](https://www.stovepipedeathvalley.com) and then head out for a little
+hiking before the sun goes down. Charlotte takes Nick and Monica out towards Mosaic
 Canyon.
 
 ![48](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090404_deathvalley/48.jpg)

@@ -9,9 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090710_bootjack/43.jpg"
 +++
 
-The girls spent last night at the [Winfield Inn]
-(https://www.lakesuperiorlodge.us) in Bayview. Looks like a very beautiful
-place, especially the gardens.
+The girls spent last night at the [Winfield Inn](https://www.lakesuperiorlodge.us) in Bayview. Looks like
+a very beautiful place, especially the gardens.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090710_bootjack/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090710_bootjack/02.jpg)

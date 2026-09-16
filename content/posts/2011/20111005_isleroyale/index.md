@@ -11,10 +11,9 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/201110
 
 This year I'm joining Charlotte on her fall trip to Bootjack to bring Gordon
 back to Capitola for the winter. For most of the time though, we'll be
-enjoying the outdoors, hiking, and boating in beautiful [Isle Royale National
-Park](https://www.nps.gov/isro/). We're headed over on the [Isle Royale Queen]
-(https://www.isleroyale.com) out of Copper Harbor, and we'll be staying at
-the [Rock Harbor Lodge](https://www.rockharborlodge.com).
+enjoying the outdoors, hiking, and boating in beautiful [Isle Royale National Park](https://www.nps.gov/isro/).
+We're headed over on the [Isle Royale Queen](https://www.isleroyale.com) out of Copper Harbor, and
+we'll be staying at the [Rock Harbor Lodge](https://www.rockharborlodge.com).
 
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111005_isleroyale/02.jpg)
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20111005_isleroyale/03.jpg)

@@ -9,8 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090529_kings/21.jpg"
 +++
 
-Charlotte, Monica, and I are on the road to [Sequoia & Kings Canyon]
-(https://www.nps.gov/seki/) for some hiking in the Sierra. We couldn't talk
+Charlotte, Monica, and I are on the road to [Sequoia & Kings Canyon](https://www.nps.gov/seki/)
+for some hiking in the Sierra. We couldn't talk
 Gabe and Nick into it, so it's kind of a girl's weekend with me along as the
 third wheel. It's going to be awesome!
 

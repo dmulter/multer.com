@@ -26,8 +26,8 @@ road. I think I'm going to hurl.
 ![06](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090806_idaho/06.jpg)
 ![07](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090806_idaho/07.jpg)
 
-The girls will be spending most of their day in fantastic[Glacier National
-Park](https://www.nps.gov/glac/). Monica was very happy with her mini-buffalo
+The girls will be spending most of their day in fantastic
+[Glacier National Park](https://www.nps.gov/glac/). Monica was very happy with her mini-buffalo
 purchase at the gift shop.
 
 ![08](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090806_idaho/08.jpg)

@@ -12,13 +12,12 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/200902
 Yesterday was a great day, but today is going to be a big photography day here
 in [Yellowstone](https://www.nps.gov/yell/). There are a few kills around the
 park this morning, and this one is crawling with lots of professionals
-including [Tom Mangelsen](https://www.mangelsen.com) and[Patricio Robles Gil]
-(https://www.patricioroblesgil.com.mx). Mark commonly runs into a great local
-named Mark Miller on his trips here. It's pretty amazing to be standing next
-to such big names, though my photos really didn't work out very well. I'm
-really going to need that BIG telephoto and lots more practice. This wolf
-wandered in while everyone was waiting, grab his fill, then walked off over
-the hill.
+including [Tom Mangelsen](https://www.mangelsen.com) and[Patricio Robles Gil](https://www.patricioroblesgil.com.mx).
+Mark commonly runs into a great local named Mark Miller on his trips here. It's
+pretty amazing to be standing next to such big names, though my photos really
+didn't work out very well. I'm really going to need that BIG telephoto and
+lots more practice. This wolf wandered in while everyone was waiting, grab his
+fill, then walked off over the hill.
 
 ![01](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090221_yellowstone/01.jpg)
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090221_yellowstone/02.jpg)

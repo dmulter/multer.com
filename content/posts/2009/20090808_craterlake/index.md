@@ -9,8 +9,8 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090808_craterlake/19.jpg"
 +++
 
-The long drive continues through Oregon and makes its way into[Crater Lake
-National Park](https://www.nps.gov/crla/). Awesome views, but unfortunately a
+The long drive continues through Oregon and makes its way into
+[Crater Lake National Park](https://www.nps.gov/crla/). Awesome views, but unfortunately a
 very hazy day that prevents these photos from doing this amazing place
 justice.
 

@@ -9,11 +9,11 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100223_yellowstone/01.jpg"
 +++
 
-I'm off to another winter photography trip to [Yellowstone]
-(https://www.nps.gov/yell/), but this time Monica is joining us. She's very
-excited to hone her photo skills, enjoy the wildlife, and of course have some
-fun in the snow. I love the new direct flight to Bozeman, then it's an easy
-drive down to the hotel in Gardiner.
+I'm off to another winter photography trip to [Yellowstone](https://www.nps.gov/yell/),
+but this time Monica is joining us. She's very excited to hone her photo
+skills, enjoy the wildlife, and of course have some fun in the snow. I love
+the new direct flight to Bozeman, then it's an easy drive down to the hotel in
+Gardiner.
 
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100223_yellowstone/02.jpg)
 

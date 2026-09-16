@@ -77,8 +77,7 @@ sure feels great having a chance to save someone, I wish him the best.
 ![44](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100829_bryce/44.jpg)
 
 Charlotte wanted to stop at this touristy cave on our drive out, but it's
-closed and we continue on to the mighty [Grand Canyon]
-(https://www.nps.gov/grca/).
+closed and we continue on to the mighty [Grand Canyon](https://www.nps.gov/grca/).
 
 ![45](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2010/20100829_bryce/45.jpg)
 

@@ -9,11 +9,11 @@ tags = ['story']
 image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110514_catshill/01.jpg"
 +++
 
-Gabe is racing today in the legendary [Cat's Hill Classic]
-(https://www.catshill.org) today. I suppose it's a classic having been around
-for 38 years, rolling over rough pavement, and including a killer 23% grade
-hill. Gabe and I previewed the course a few days ago, but now it's time to
-watch the Cat 3s (including quite a few juniors) enjoy the hill.
+Gabe is racing today in the legendary [Cat's Hill Classic](https://www.catshill.org) today.
+I suppose it's a classic having been around for 38 years, rolling over rough
+pavement, and including a killer 23% grade hill. Gabe and I previewed the
+course a few days ago, but now it's time to watch the Cat 3s (including quite
+a few juniors) enjoy the hill.
 
 ![02](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110514_catshill/02.jpg)
 ![03](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2011/20110514_catshill/03.jpg)

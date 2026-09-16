@@ -55,8 +55,7 @@ another favorite of Monica's.
 ![30](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090807_oregon/30.jpg)
 ![31](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090807_oregon/31.jpg)
 
-Then it's into the [Newberry National Volcanic Monument]
-(https://www.fs.usda.gov/r06/deschutes/recreation/newberry-national-volcanic-monument-deschutes-nf).
+Then it's into the [Newberry National Volcanic Monument](https://www.fs.usda.gov/r06/deschutes/recreation/newberry-national-volcanic-monument-deschutes-nf).
 Charlotte told me this was one of her favorite places during the trip.
 
 ![32](https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2009/20090807_oregon/32.jpg)
