@@ -10,7 +10,7 @@ image = "https://s3.us-west-2.amazonaws.com/multer.com/content/posts/2003/200305
 +++
 
 We decided to put on a century ride this year to raise money for our local
-schools through <a href="http://www.svef.net/">SVEF</a>. We rode 100 miles
+schools through [SVEF](https://www.svef.net). We rode 100 miles
 down to Big Sur with about 15 riders. It was a beautiful day for a ride as
 usual.
 
