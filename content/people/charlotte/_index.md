@@ -16,4 +16,6 @@ url = 'https://www.facebook.com/cmulter/'
 
 Welcome to Charlotte's people page!
 
+[Read all my posts]({{< ref "/authors/charlotte-multer" >}}).
+
 {{< page_social_icons >}}
