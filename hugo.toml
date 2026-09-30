@@ -28,14 +28,19 @@ pageRef = "/people/"
 weight = 30
 
 [[menus.main]]
+name = "Genealogy"
+pageRef = "/genealogy/"
+weight = 40
+
+[[menus.main]]
 name = "About"
 pageRef = "/about/"
-weight = 40
+weight = 60
 
 [[menus.main]]
 name = "Search"
 pageRef = "/search/"
-weight = 50
+weight = 60
 
 [caches.images]
 dir = ":cacheDir/images"
